@@ -1,0 +1,6316 @@
+{
+  "test_points": [
+    {
+      "date": "2023-01-01",
+      "observed": 7.75,
+      "predicted": 6.52,
+      "residual": 1.23
+    },
+    {
+      "date": "2023-01-02",
+      "observed": 4.15,
+      "predicted": 9.04,
+      "residual": -4.89
+    },
+    {
+      "date": "2023-01-03",
+      "observed": 2.4,
+      "predicted": 5.62,
+      "residual": -3.22
+    },
+    {
+      "date": "2023-01-04",
+      "observed": 4.95,
+      "predicted": 4.16,
+      "residual": 0.79
+    },
+    {
+      "date": "2023-01-05",
+      "observed": 10.83,
+      "predicted": 5.56,
+      "residual": 5.27
+    },
+    {
+      "date": "2023-01-06",
+      "observed": 13.8,
+      "predicted": 11.95,
+      "residual": 1.85
+    },
+    {
+      "date": "2023-01-07",
+      "observed": 12.15,
+      "predicted": 13.89,
+      "residual": -1.74
+    },
+    {
+      "date": "2023-01-08",
+      "observed": 5.4,
+      "predicted": 12.38,
+      "residual": -6.98
+    },
+    {
+      "date": "2023-01-09",
+      "observed": 4.85,
+      "predicted": 5.91,
+      "residual": -1.06
+    },
+    {
+      "date": "2023-01-10",
+      "observed": 10.85,
+      "predicted": 5.27,
+      "residual": 5.58
+    },
+    {
+      "date": "2023-01-11",
+      "observed": 9.13,
+      "predicted": 12.19,
+      "residual": -3.06
+    },
+    {
+      "date": "2023-01-12",
+      "observed": 10.15,
+      "predicted": 11.1,
+      "residual": -0.95
+    },
+    {
+      "date": "2023-01-13",
+      "observed": 9.15,
+      "predicted": 11.25,
+      "residual": -2.1
+    },
+    {
+      "date": "2023-01-14",
+      "observed": 4.1,
+      "predicted": 9.05,
+      "residual": -4.95
+    },
+    {
+      "date": "2023-01-15",
+      "observed": 1.75,
+      "predicted": 5.46,
+      "residual": -3.71
+    },
+    {
+      "date": "2023-01-16",
+      "observed": 3.6,
+      "predicted": 3.23,
+      "residual": 0.37
+    },
+    {
+      "date": "2023-01-17",
+      "observed": 7.67,
+      "predicted": 6.16,
+      "residual": 1.5
+    },
+    {
+      "date": "2023-01-21",
+      "observed": 8.7,
+      "predicted": 10.42,
+      "residual": -1.72
+    },
+    {
+      "date": "2023-01-22",
+      "observed": 3.1,
+      "predicted": 9.57,
+      "residual": -6.47
+    },
+    {
+      "date": "2023-01-23",
+      "observed": 8.23,
+      "predicted": 3.97,
+      "residual": 4.27
+    },
+    {
+      "date": "2023-01-24",
+      "observed": 7.65,
+      "predicted": 9.64,
+      "residual": -1.99
+    },
+    {
+      "date": "2023-01-25",
+      "observed": 4.5,
+      "predicted": 8.39,
+      "residual": -3.89
+    },
+    {
+      "date": "2023-01-26",
+      "observed": 7.15,
+      "predicted": 4.14,
+      "residual": 3.01
+    },
+    {
+      "date": "2023-01-27",
+      "observed": 7.95,
+      "predicted": 9.05,
+      "residual": -1.1
+    },
+    {
+      "date": "2023-01-28",
+      "observed": 2.4,
+      "predicted": 8.43,
+      "residual": -6.03
+    },
+    {
+      "date": "2023-01-29",
+      "observed": 2.9,
+      "predicted": 4.58,
+      "residual": -1.68
+    },
+    {
+      "date": "2023-01-30",
+      "observed": 5.15,
+      "predicted": 5.76,
+      "residual": -0.61
+    },
+    {
+      "date": "2023-01-31",
+      "observed": 4.2,
+      "predicted": 4.67,
+      "residual": -0.47
+    },
+    {
+      "date": "2023-02-01",
+      "observed": 8.5,
+      "predicted": 6.5,
+      "residual": 2.0
+    },
+    {
+      "date": "2023-02-02",
+      "observed": 9.5,
+      "predicted": 10.59,
+      "residual": -1.09
+    },
+    {
+      "date": "2023-02-03",
+      "observed": 16.6,
+      "predicted": 10.81,
+      "residual": 5.79
+    },
+    {
+      "date": "2023-02-04",
+      "observed": 8.27,
+      "predicted": 15.72,
+      "residual": -7.46
+    },
+    {
+      "date": "2023-02-05",
+      "observed": 6.35,
+      "predicted": 9.58,
+      "residual": -3.23
+    },
+    {
+      "date": "2023-02-06",
+      "observed": 2.25,
+      "predicted": 8.51,
+      "residual": -6.26
+    },
+    {
+      "date": "2023-02-07",
+      "observed": 8.05,
+      "predicted": 4.55,
+      "residual": 3.5
+    },
+    {
+      "date": "2023-02-08",
+      "observed": 8.9,
+      "predicted": 9.82,
+      "residual": -0.92
+    },
+    {
+      "date": "2023-02-09",
+      "observed": 2.5,
+      "predicted": 10.01,
+      "residual": -7.51
+    },
+    {
+      "date": "2023-02-10",
+      "observed": 5.6,
+      "predicted": 5.89,
+      "residual": -0.29
+    },
+    {
+      "date": "2023-02-11",
+      "observed": 3.8,
+      "predicted": 7.07,
+      "residual": -3.27
+    },
+    {
+      "date": "2023-02-12",
+      "observed": 3.6,
+      "predicted": 6.38,
+      "residual": -2.78
+    },
+    {
+      "date": "2023-02-22",
+      "observed": 1.8,
+      "predicted": 3.42,
+      "residual": -1.62
+    },
+    {
+      "date": "2023-02-23",
+      "observed": 1.8,
+      "predicted": 4.32,
+      "residual": -2.52
+    },
+    {
+      "date": "2023-02-24",
+      "observed": 0.9,
+      "predicted": 1.01,
+      "residual": -0.11
+    },
+    {
+      "date": "2023-02-25",
+      "observed": 1.3,
+      "predicted": 2.16,
+      "residual": -0.86
+    },
+    {
+      "date": "2023-02-26",
+      "observed": 2.6,
+      "predicted": 4.43,
+      "residual": -1.83
+    },
+    {
+      "date": "2023-02-27",
+      "observed": 2.6,
+      "predicted": 5.0,
+      "residual": -2.4
+    },
+    {
+      "date": "2023-02-28",
+      "observed": -0.4,
+      "predicted": 4.6,
+      "residual": -5.0
+    },
+    {
+      "date": "2023-03-01",
+      "observed": 2.3,
+      "predicted": 1.11,
+      "residual": 1.19
+    },
+    {
+      "date": "2023-03-02",
+      "observed": 3.5,
+      "predicted": 5.28,
+      "residual": -1.78
+    },
+    {
+      "date": "2023-03-03",
+      "observed": 5.5,
+      "predicted": 6.1,
+      "residual": -0.6
+    },
+    {
+      "date": "2023-03-04",
+      "observed": 6.6,
+      "predicted": 7.23,
+      "residual": -0.63
+    },
+    {
+      "date": "2023-03-05",
+      "observed": 2.8,
+      "predicted": 8.29,
+      "residual": -5.49
+    },
+    {
+      "date": "2023-03-06",
+      "observed": 3.4,
+      "predicted": 5.86,
+      "residual": -2.46
+    },
+    {
+      "date": "2023-03-07",
+      "observed": 6.2,
+      "predicted": 6.11,
+      "residual": 0.09
+    },
+    {
+      "date": "2023-03-08",
+      "observed": 8.65,
+      "predicted": 8.33,
+      "residual": 0.32
+    },
+    {
+      "date": "2023-03-09",
+      "observed": 3.95,
+      "predicted": 10.08,
+      "residual": -6.13
+    },
+    {
+      "date": "2023-03-10",
+      "observed": 0.9,
+      "predicted": 5.84,
+      "residual": -4.94
+    },
+    {
+      "date": "2023-03-11",
+      "observed": 5.0,
+      "predicted": 3.65,
+      "residual": 1.35
+    },
+    {
+      "date": "2023-03-12",
+      "observed": 5.75,
+      "predicted": 7.43,
+      "residual": -1.68
+    },
+    {
+      "date": "2023-03-13",
+      "observed": 7.55,
+      "predicted": 7.56,
+      "residual": -0.01
+    },
+    {
+      "date": "2023-03-14",
+      "observed": 2.95,
+      "predicted": 8.08,
+      "residual": -5.13
+    },
+    {
+      "date": "2023-03-15",
+      "observed": 4.4,
+      "predicted": 4.2,
+      "residual": 0.2
+    },
+    {
+      "date": "2023-03-16",
+      "observed": 11.1,
+      "predicted": 6.64,
+      "residual": 4.46
+    },
+    {
+      "date": "2023-03-17",
+      "observed": 7.45,
+      "predicted": 11.82,
+      "residual": -4.37
+    },
+    {
+      "date": "2023-03-18",
+      "observed": 7.2,
+      "predicted": 9.1,
+      "residual": -1.9
+    },
+    {
+      "date": "2023-03-19",
+      "observed": 1.55,
+      "predicted": 7.92,
+      "residual": -6.37
+    },
+    {
+      "date": "2023-03-20",
+      "observed": 2.65,
+      "predicted": 3.91,
+      "residual": -1.26
+    },
+    {
+      "date": "2023-03-21",
+      "observed": 3.35,
+      "predicted": 2.35,
+      "residual": 1.0
+    },
+    {
+      "date": "2023-03-22",
+      "observed": 5.25,
+      "predicted": 5.1,
+      "residual": 0.15
+    },
+    {
+      "date": "2023-03-23",
+      "observed": 5.85,
+      "predicted": 6.98,
+      "residual": -1.13
+    },
+    {
+      "date": "2023-03-24",
+      "observed": 7.17,
+      "predicted": 7.24,
+      "residual": -0.07
+    },
+    {
+      "date": "2023-03-25",
+      "observed": 6.6,
+      "predicted": 7.75,
+      "residual": -1.15
+    },
+    {
+      "date": "2023-03-26",
+      "observed": 6.5,
+      "predicted": 8.45,
+      "residual": -1.95
+    },
+    {
+      "date": "2023-03-27",
+      "observed": 5.5,
+      "predicted": 8.61,
+      "residual": -3.11
+    },
+    {
+      "date": "2023-03-28",
+      "observed": 2.0,
+      "predicted": 7.46,
+      "residual": -5.46
+    },
+    {
+      "date": "2023-03-29",
+      "observed": 1.8,
+      "predicted": 3.99,
+      "residual": -2.19
+    },
+    {
+      "date": "2023-03-30",
+      "observed": 6.63,
+      "predicted": 4.4,
+      "residual": 2.23
+    },
+    {
+      "date": "2023-03-31",
+      "observed": 7.45,
+      "predicted": 8.47,
+      "residual": -1.02
+    },
+    {
+      "date": "2023-04-01",
+      "observed": 5.15,
+      "predicted": 8.64,
+      "residual": -3.49
+    },
+    {
+      "date": "2023-04-02",
+      "observed": 1.9,
+      "predicted": 6.45,
+      "residual": -4.55
+    },
+    {
+      "date": "2023-04-03",
+      "observed": 1.5,
+      "predicted": 3.38,
+      "residual": -1.88
+    },
+    {
+      "date": "2023-04-06",
+      "observed": 7.8,
+      "predicted": 9.45,
+      "residual": -1.65
+    },
+    {
+      "date": "2023-04-07",
+      "observed": 6.3,
+      "predicted": 8.95,
+      "residual": -2.65
+    },
+    {
+      "date": "2023-04-08",
+      "observed": 9.2,
+      "predicted": 8.16,
+      "residual": 1.04
+    },
+    {
+      "date": "2023-04-09",
+      "observed": 9.7,
+      "predicted": 9.98,
+      "residual": -0.28
+    },
+    {
+      "date": "2023-04-10",
+      "observed": 10.5,
+      "predicted": 10.17,
+      "residual": 0.33
+    },
+    {
+      "date": "2023-04-11",
+      "observed": 4.73,
+      "predicted": 10.33,
+      "residual": -5.59
+    },
+    {
+      "date": "2023-04-12",
+      "observed": 7.45,
+      "predicted": 6.09,
+      "residual": 1.36
+    },
+    {
+      "date": "2023-04-13",
+      "observed": 11.35,
+      "predicted": 7.69,
+      "residual": 3.66
+    },
+    {
+      "date": "2023-04-14",
+      "observed": 12.5,
+      "predicted": 10.75,
+      "residual": 1.75
+    },
+    {
+      "date": "2023-04-15",
+      "observed": 12.0,
+      "predicted": 12.54,
+      "residual": -0.54
+    },
+    {
+      "date": "2023-04-16",
+      "observed": 13.1,
+      "predicted": 12.12,
+      "residual": 0.98
+    },
+    {
+      "date": "2023-04-17",
+      "observed": 7.8,
+      "predicted": 12.41,
+      "residual": -4.61
+    },
+    {
+      "date": "2023-04-18",
+      "observed": 9.8,
+      "predicted": 8.25,
+      "residual": 1.55
+    },
+    {
+      "date": "2023-04-19",
+      "observed": 12.7,
+      "predicted": 9.93,
+      "residual": 2.77
+    },
+    {
+      "date": "2023-04-20",
+      "observed": 14.9,
+      "predicted": 12.68,
+      "residual": 2.22
+    },
+    {
+      "date": "2023-04-21",
+      "observed": 12.15,
+      "predicted": 14.18,
+      "residual": -2.03
+    },
+    {
+      "date": "2023-04-22",
+      "observed": 12.5,
+      "predicted": 11.68,
+      "residual": 0.82
+    },
+    {
+      "date": "2023-04-23",
+      "observed": 11.4,
+      "predicted": 11.15,
+      "residual": 0.25
+    },
+    {
+      "date": "2023-04-24",
+      "observed": 10.0,
+      "predicted": 10.78,
+      "residual": -0.78
+    },
+    {
+      "date": "2023-04-25",
+      "observed": 16.35,
+      "predicted": 10.14,
+      "residual": 6.21
+    },
+    {
+      "date": "2023-04-26",
+      "observed": 15.65,
+      "predicted": 14.93,
+      "residual": 0.72
+    },
+    {
+      "date": "2023-04-27",
+      "observed": 14.8,
+      "predicted": 14.14,
+      "residual": 0.66
+    },
+    {
+      "date": "2023-04-28",
+      "observed": 14.0,
+      "predicted": 13.41,
+      "residual": 0.59
+    },
+    {
+      "date": "2023-04-29",
+      "observed": 7.63,
+      "predicted": 13.1,
+      "residual": -5.47
+    },
+    {
+      "date": "2023-04-30",
+      "observed": 4.6,
+      "predicted": 8.06,
+      "residual": -3.46
+    },
+    {
+      "date": "2023-05-01",
+      "observed": 2.75,
+      "predicted": 5.59,
+      "residual": -2.84
+    },
+    {
+      "date": "2023-05-02",
+      "observed": 3.3,
+      "predicted": 5.05,
+      "residual": -1.75
+    },
+    {
+      "date": "2023-05-03",
+      "observed": 1.9,
+      "predicted": 4.88,
+      "residual": -2.98
+    },
+    {
+      "date": "2023-05-04",
+      "observed": 2.6,
+      "predicted": 3.53,
+      "residual": -0.93
+    },
+    {
+      "date": "2023-05-05",
+      "observed": 4.55,
+      "predicted": 5.66,
+      "residual": -1.11
+    },
+    {
+      "date": "2023-05-06",
+      "observed": 5.4,
+      "predicted": 6.66,
+      "residual": -1.26
+    },
+    {
+      "date": "2023-05-07",
+      "observed": 7.7,
+      "predicted": 7.32,
+      "residual": 0.38
+    },
+    {
+      "date": "2023-05-08",
+      "observed": 6.8,
+      "predicted": 8.57,
+      "residual": -1.77
+    },
+    {
+      "date": "2023-05-09",
+      "observed": 4.45,
+      "predicted": 7.57,
+      "residual": -3.12
+    },
+    {
+      "date": "2023-05-10",
+      "observed": 7.6,
+      "predicted": 5.82,
+      "residual": 1.78
+    },
+    {
+      "date": "2023-05-11",
+      "observed": 11.67,
+      "predicted": 8.66,
+      "residual": 3.0
+    },
+    {
+      "date": "2023-05-12",
+      "observed": 11.9,
+      "predicted": 11.51,
+      "residual": 0.39
+    },
+    {
+      "date": "2023-05-13",
+      "observed": 8.65,
+      "predicted": 11.2,
+      "residual": -2.55
+    },
+    {
+      "date": "2023-05-14",
+      "observed": 9.8,
+      "predicted": 8.91,
+      "residual": 0.89
+    },
+    {
+      "date": "2023-05-15",
+      "observed": 12.4,
+      "predicted": 10.01,
+      "residual": 2.39
+    },
+    {
+      "date": "2023-05-16",
+      "observed": 13.8,
+      "predicted": 12.01,
+      "residual": 1.79
+    },
+    {
+      "date": "2023-05-17",
+      "observed": 9.43,
+      "predicted": 12.88,
+      "residual": -3.45
+    },
+    {
+      "date": "2023-05-18",
+      "observed": 6.7,
+      "predicted": 9.29,
+      "residual": -2.59
+    },
+    {
+      "date": "2023-05-19",
+      "observed": 8.8,
+      "predicted": 7.82,
+      "residual": 0.98
+    },
+    {
+      "date": "2023-05-20",
+      "observed": 4.05,
+      "predicted": 9.32,
+      "residual": -5.27
+    },
+    {
+      "date": "2023-05-21",
+      "observed": 4.1,
+      "predicted": 5.86,
+      "residual": -1.76
+    },
+    {
+      "date": "2023-05-22",
+      "observed": 2.95,
+      "predicted": 5.97,
+      "residual": -3.02
+    },
+    {
+      "date": "2023-05-23",
+      "observed": 4.03,
+      "predicted": 5.26,
+      "residual": -1.23
+    },
+    {
+      "date": "2023-05-24",
+      "observed": 4.55,
+      "predicted": 5.76,
+      "residual": -1.21
+    },
+    {
+      "date": "2023-05-25",
+      "observed": 5.1,
+      "predicted": 6.2,
+      "residual": -1.1
+    },
+    {
+      "date": "2023-05-26",
+      "observed": 6.25,
+      "predicted": 7.27,
+      "residual": -1.02
+    },
+    {
+      "date": "2023-05-27",
+      "observed": 6.4,
+      "predicted": 8.13,
+      "residual": -1.73
+    },
+    {
+      "date": "2023-05-28",
+      "observed": 3.95,
+      "predicted": 8.23,
+      "residual": -4.28
+    },
+    {
+      "date": "2023-05-29",
+      "observed": 5.1,
+      "predicted": 5.79,
+      "residual": -0.69
+    },
+    {
+      "date": "2023-05-30",
+      "observed": 3.0,
+      "predicted": 6.95,
+      "residual": -3.95
+    },
+    {
+      "date": "2023-05-31",
+      "observed": 4.45,
+      "predicted": 5.84,
+      "residual": -1.39
+    },
+    {
+      "date": "2023-06-01",
+      "observed": 8.9,
+      "predicted": 6.52,
+      "residual": 2.38
+    },
+    {
+      "date": "2023-06-02",
+      "observed": 10.55,
+      "predicted": 9.86,
+      "residual": 0.69
+    },
+    {
+      "date": "2023-06-03",
+      "observed": 10.95,
+      "predicted": 10.75,
+      "residual": 0.2
+    },
+    {
+      "date": "2023-06-04",
+      "observed": 6.83,
+      "predicted": 10.71,
+      "residual": -3.88
+    },
+    {
+      "date": "2023-06-05",
+      "observed": 5.45,
+      "predicted": 7.36,
+      "residual": -1.91
+    },
+    {
+      "date": "2023-06-06",
+      "observed": 2.9,
+      "predicted": 6.65,
+      "residual": -3.75
+    },
+    {
+      "date": "2023-06-07",
+      "observed": 5.7,
+      "predicted": 5.23,
+      "residual": 0.47
+    },
+    {
+      "date": "2023-06-08",
+      "observed": 6.25,
+      "predicted": 7.76,
+      "residual": -1.51
+    },
+    {
+      "date": "2023-06-09",
+      "observed": 6.8,
+      "predicted": 8.13,
+      "residual": -1.33
+    },
+    {
+      "date": "2023-06-10",
+      "observed": 3.2,
+      "predicted": 8.27,
+      "residual": -5.07
+    },
+    {
+      "date": "2023-06-11",
+      "observed": 4.25,
+      "predicted": 4.42,
+      "residual": -0.17
+    },
+    {
+      "date": "2023-06-12",
+      "observed": 4.65,
+      "predicted": 6.52,
+      "residual": -1.87
+    },
+    {
+      "date": "2023-06-13",
+      "observed": 6.65,
+      "predicted": 6.89,
+      "residual": -0.24
+    },
+    {
+      "date": "2023-06-14",
+      "observed": 3.8,
+      "predicted": 8.01,
+      "residual": -4.21
+    },
+    {
+      "date": "2023-06-15",
+      "observed": 7.85,
+      "predicted": 6.0,
+      "residual": 1.85
+    },
+    {
+      "date": "2023-06-16",
+      "observed": 9.2,
+      "predicted": 8.99,
+      "residual": 0.21
+    },
+    {
+      "date": "2023-06-17",
+      "observed": 6.4,
+      "predicted": 9.75,
+      "residual": -3.35
+    },
+    {
+      "date": "2023-06-18",
+      "observed": 5.3,
+      "predicted": 7.53,
+      "residual": -2.23
+    },
+    {
+      "date": "2023-06-19",
+      "observed": 7.8,
+      "predicted": 6.63,
+      "residual": 1.17
+    },
+    {
+      "date": "2023-06-20",
+      "observed": 9.6,
+      "predicted": 8.64,
+      "residual": 0.96
+    },
+    {
+      "date": "2023-06-21",
+      "observed": 8.4,
+      "predicted": 9.87,
+      "residual": -1.47
+    },
+    {
+      "date": "2023-06-22",
+      "observed": 6.9,
+      "predicted": 9.05,
+      "residual": -2.15
+    },
+    {
+      "date": "2023-06-23",
+      "observed": 7.0,
+      "predicted": 8.03,
+      "residual": -1.03
+    },
+    {
+      "date": "2023-06-24",
+      "observed": 7.15,
+      "predicted": 8.33,
+      "residual": -1.18
+    },
+    {
+      "date": "2023-06-25",
+      "observed": 8.1,
+      "predicted": 8.51,
+      "residual": -0.41
+    },
+    {
+      "date": "2023-06-26",
+      "observed": 9.45,
+      "predicted": 8.92,
+      "residual": 0.53
+    },
+    {
+      "date": "2023-06-27",
+      "observed": 8.6,
+      "predicted": 9.77,
+      "residual": -1.17
+    },
+    {
+      "date": "2023-06-28",
+      "observed": 8.73,
+      "predicted": 8.72,
+      "residual": 0.01
+    },
+    {
+      "date": "2023-06-29",
+      "observed": 11.05,
+      "predicted": 9.12,
+      "residual": 1.93
+    },
+    {
+      "date": "2023-06-30",
+      "observed": 9.9,
+      "predicted": 10.78,
+      "residual": -0.88
+    },
+    {
+      "date": "2023-07-01",
+      "observed": 10.9,
+      "predicted": 9.69,
+      "residual": 1.21
+    },
+    {
+      "date": "2023-07-02",
+      "observed": 13.25,
+      "predicted": 11.06,
+      "residual": 2.19
+    },
+    {
+      "date": "2023-07-03",
+      "observed": 48.15,
+      "predicted": 12.35,
+      "residual": 35.8
+    },
+    {
+      "date": "2023-07-04",
+      "observed": 25.73,
+      "predicted": 36.13,
+      "residual": -10.39
+    },
+    {
+      "date": "2023-07-05",
+      "observed": 9.75,
+      "predicted": 21.09,
+      "residual": -11.34
+    },
+    {
+      "date": "2023-07-06",
+      "observed": 8.35,
+      "predicted": 9.89,
+      "residual": -1.54
+    },
+    {
+      "date": "2023-07-07",
+      "observed": 9.25,
+      "predicted": 8.63,
+      "residual": 0.62
+    },
+    {
+      "date": "2023-07-08",
+      "observed": 10.15,
+      "predicted": 9.4,
+      "residual": 0.75
+    },
+    {
+      "date": "2023-07-09",
+      "observed": 11.7,
+      "predicted": 10.48,
+      "residual": 1.22
+    },
+    {
+      "date": "2023-07-10",
+      "observed": 12.43,
+      "predicted": 11.14,
+      "residual": 1.29
+    },
+    {
+      "date": "2023-07-11",
+      "observed": 8.05,
+      "predicted": 11.95,
+      "residual": -3.9
+    },
+    {
+      "date": "2023-07-12",
+      "observed": 7.05,
+      "predicted": 8.97,
+      "residual": -1.92
+    },
+    {
+      "date": "2023-07-13",
+      "observed": 8.55,
+      "predicted": 7.9,
+      "residual": 0.65
+    },
+    {
+      "date": "2023-07-14",
+      "observed": 10.45,
+      "predicted": 8.77,
+      "residual": 1.68
+    },
+    {
+      "date": "2023-07-15",
+      "observed": 9.65,
+      "predicted": 9.9,
+      "residual": -0.25
+    },
+    {
+      "date": "2023-07-16",
+      "observed": 9.73,
+      "predicted": 9.51,
+      "residual": 0.22
+    },
+    {
+      "date": "2023-07-17",
+      "observed": 8.75,
+      "predicted": 9.57,
+      "residual": -0.82
+    },
+    {
+      "date": "2023-07-18",
+      "observed": 10.3,
+      "predicted": 9.06,
+      "residual": 1.24
+    },
+    {
+      "date": "2023-07-19",
+      "observed": 11.5,
+      "predicted": 10.35,
+      "residual": 1.15
+    },
+    {
+      "date": "2023-07-20",
+      "observed": 11.8,
+      "predicted": 11.01,
+      "residual": 0.79
+    },
+    {
+      "date": "2023-07-21",
+      "observed": 11.75,
+      "predicted": 10.82,
+      "residual": 0.93
+    },
+    {
+      "date": "2023-07-22",
+      "observed": 10.17,
+      "predicted": 11.26,
+      "residual": -1.09
+    },
+    {
+      "date": "2023-07-23",
+      "observed": 13.0,
+      "predicted": 10.02,
+      "residual": 2.98
+    },
+    {
+      "date": "2023-07-24",
+      "observed": 10.25,
+      "predicted": 12.34,
+      "residual": -2.09
+    },
+    {
+      "date": "2023-07-25",
+      "observed": 10.4,
+      "predicted": 10.54,
+      "residual": -0.14
+    },
+    {
+      "date": "2023-07-26",
+      "observed": 11.55,
+      "predicted": 10.34,
+      "residual": 1.21
+    },
+    {
+      "date": "2023-07-27",
+      "observed": 13.4,
+      "predicted": 11.12,
+      "residual": 2.28
+    },
+    {
+      "date": "2023-07-28",
+      "observed": 14.77,
+      "predicted": 11.84,
+      "residual": 2.93
+    },
+    {
+      "date": "2023-07-29",
+      "observed": 11.95,
+      "predicted": 13.31,
+      "residual": -1.36
+    },
+    {
+      "date": "2023-07-30",
+      "observed": 12.05,
+      "predicted": 11.24,
+      "residual": 0.81
+    },
+    {
+      "date": "2023-07-31",
+      "observed": 13.0,
+      "predicted": 11.46,
+      "residual": 1.54
+    },
+    {
+      "date": "2023-08-01",
+      "observed": 10.85,
+      "predicted": 12.11,
+      "residual": -1.26
+    },
+    {
+      "date": "2023-08-02",
+      "observed": 10.95,
+      "predicted": 10.72,
+      "residual": 0.23
+    },
+    {
+      "date": "2023-08-03",
+      "observed": 10.83,
+      "predicted": 10.94,
+      "residual": -0.11
+    },
+    {
+      "date": "2023-08-04",
+      "observed": 13.35,
+      "predicted": 10.32,
+      "residual": 3.03
+    },
+    {
+      "date": "2023-08-05",
+      "observed": 14.1,
+      "predicted": 12.35,
+      "residual": 1.75
+    },
+    {
+      "date": "2023-08-06",
+      "observed": 13.8,
+      "predicted": 12.55,
+      "residual": 1.25
+    },
+    {
+      "date": "2023-08-07",
+      "observed": 9.9,
+      "predicted": 12.34,
+      "residual": -2.44
+    },
+    {
+      "date": "2023-08-08",
+      "observed": 9.15,
+      "predicted": 9.53,
+      "residual": -0.38
+    },
+    {
+      "date": "2023-08-09",
+      "observed": 7.03,
+      "predicted": 9.64,
+      "residual": -2.61
+    },
+    {
+      "date": "2023-08-10",
+      "observed": 6.35,
+      "predicted": 8.04,
+      "residual": -1.69
+    },
+    {
+      "date": "2023-08-11",
+      "observed": 9.1,
+      "predicted": 7.97,
+      "residual": 1.13
+    },
+    {
+      "date": "2023-08-12",
+      "observed": 10.1,
+      "predicted": 9.76,
+      "residual": 0.34
+    },
+    {
+      "date": "2023-08-13",
+      "observed": 9.55,
+      "predicted": 10.52,
+      "residual": -0.97
+    },
+    {
+      "date": "2023-08-14",
+      "observed": 9.95,
+      "predicted": 10.07,
+      "residual": -0.12
+    },
+    {
+      "date": "2023-08-15",
+      "observed": 8.07,
+      "predicted": 10.65,
+      "residual": -2.58
+    },
+    {
+      "date": "2023-08-16",
+      "observed": 10.3,
+      "predicted": 9.06,
+      "residual": 1.24
+    },
+    {
+      "date": "2023-08-17",
+      "observed": 9.9,
+      "predicted": 10.35,
+      "residual": -0.45
+    },
+    {
+      "date": "2023-08-18",
+      "observed": 7.85,
+      "predicted": 10.69,
+      "residual": -2.84
+    },
+    {
+      "date": "2023-08-19",
+      "observed": 5.4,
+      "predicted": 9.3,
+      "residual": -3.9
+    },
+    {
+      "date": "2023-08-20",
+      "observed": 4.9,
+      "predicted": 4.94,
+      "residual": -0.04
+    },
+    {
+      "date": "2023-08-21",
+      "observed": 8.9,
+      "predicted": 6.45,
+      "residual": 2.45
+    },
+    {
+      "date": "2023-08-22",
+      "observed": 11.0,
+      "predicted": 10.09,
+      "residual": 0.91
+    },
+    {
+      "date": "2023-08-23",
+      "observed": 10.8,
+      "predicted": 11.06,
+      "residual": -0.26
+    },
+    {
+      "date": "2023-08-24",
+      "observed": 9.65,
+      "predicted": 10.92,
+      "residual": -1.27
+    },
+    {
+      "date": "2023-08-25",
+      "observed": 12.4,
+      "predicted": 10.45,
+      "residual": 1.95
+    },
+    {
+      "date": "2023-08-26",
+      "observed": 14.6,
+      "predicted": 12.47,
+      "residual": 2.13
+    },
+    {
+      "date": "2023-08-27",
+      "observed": 18.03,
+      "predicted": 14.05,
+      "residual": 3.98
+    },
+    {
+      "date": "2023-08-28",
+      "observed": 20.1,
+      "predicted": 15.77,
+      "residual": 4.33
+    },
+    {
+      "date": "2023-08-29",
+      "observed": 18.3,
+      "predicted": 17.49,
+      "residual": 0.81
+    },
+    {
+      "date": "2023-08-30",
+      "observed": 17.3,
+      "predicted": 15.72,
+      "residual": 1.58
+    },
+    {
+      "date": "2023-08-31",
+      "observed": 16.05,
+      "predicted": 14.57,
+      "residual": 1.48
+    },
+    {
+      "date": "2023-09-01",
+      "observed": 8.1,
+      "predicted": 13.41,
+      "residual": -5.31
+    },
+    {
+      "date": "2023-09-02",
+      "observed": 7.9,
+      "predicted": 8.85,
+      "residual": -0.95
+    },
+    {
+      "date": "2023-09-03",
+      "observed": 8.9,
+      "predicted": 8.87,
+      "residual": 0.03
+    },
+    {
+      "date": "2023-09-04",
+      "observed": 8.6,
+      "predicted": 9.55,
+      "residual": -0.95
+    },
+    {
+      "date": "2023-09-05",
+      "observed": 8.7,
+      "predicted": 9.27,
+      "residual": -0.57
+    },
+    {
+      "date": "2023-09-06",
+      "observed": 13.1,
+      "predicted": 10.03,
+      "residual": 3.07
+    },
+    {
+      "date": "2023-09-07",
+      "observed": 12.65,
+      "predicted": 13.11,
+      "residual": -0.46
+    },
+    {
+      "date": "2023-09-08",
+      "observed": 11.13,
+      "predicted": 12.64,
+      "residual": -1.51
+    },
+    {
+      "date": "2023-09-09",
+      "observed": 12.7,
+      "predicted": 11.22,
+      "residual": 1.48
+    },
+    {
+      "date": "2023-09-10",
+      "observed": 13.55,
+      "predicted": 12.21,
+      "residual": 1.34
+    },
+    {
+      "date": "2023-09-11",
+      "observed": 11.15,
+      "predicted": 12.87,
+      "residual": -1.72
+    },
+    {
+      "date": "2023-09-12",
+      "observed": 10.6,
+      "predicted": 10.61,
+      "residual": -0.01
+    },
+    {
+      "date": "2023-09-13",
+      "observed": 9.5,
+      "predicted": 10.08,
+      "residual": -0.58
+    },
+    {
+      "date": "2023-09-14",
+      "observed": 10.87,
+      "predicted": 9.72,
+      "residual": 1.14
+    },
+    {
+      "date": "2023-09-15",
+      "observed": 11.65,
+      "predicted": 11.27,
+      "residual": 0.38
+    },
+    {
+      "date": "2023-09-16",
+      "observed": 6.0,
+      "predicted": 12.12,
+      "residual": -6.12
+    },
+    {
+      "date": "2023-09-17",
+      "observed": 7.7,
+      "predicted": 8.19,
+      "residual": -0.49
+    },
+    {
+      "date": "2023-09-18",
+      "observed": 7.9,
+      "predicted": 9.12,
+      "residual": -1.22
+    },
+    {
+      "date": "2023-09-19",
+      "observed": 11.9,
+      "predicted": 9.33,
+      "residual": 2.57
+    },
+    {
+      "date": "2023-09-20",
+      "observed": 17.5,
+      "predicted": 11.67,
+      "residual": 5.83
+    },
+    {
+      "date": "2023-09-21",
+      "observed": 22.7,
+      "predicted": 15.87,
+      "residual": 6.83
+    },
+    {
+      "date": "2023-09-22",
+      "observed": 24.55,
+      "predicted": 19.72,
+      "residual": 4.83
+    },
+    {
+      "date": "2023-09-23",
+      "observed": 24.25,
+      "predicted": 20.91,
+      "residual": 3.34
+    },
+    {
+      "date": "2023-09-24",
+      "observed": 20.95,
+      "predicted": 20.39,
+      "residual": 0.56
+    },
+    {
+      "date": "2023-09-25",
+      "observed": 14.7,
+      "predicted": 18.14,
+      "residual": -3.44
+    },
+    {
+      "date": "2023-09-26",
+      "observed": 10.97,
+      "predicted": 13.89,
+      "residual": -2.92
+    },
+    {
+      "date": "2023-09-27",
+      "observed": 13.6,
+      "predicted": 11.11,
+      "residual": 2.49
+    },
+    {
+      "date": "2023-09-28",
+      "observed": 10.0,
+      "predicted": 12.59,
+      "residual": -2.59
+    },
+    {
+      "date": "2023-09-29",
+      "observed": 6.75,
+      "predicted": 9.83,
+      "residual": -3.08
+    },
+    {
+      "date": "2023-09-30",
+      "observed": 6.95,
+      "predicted": 7.62,
+      "residual": -0.67
+    },
+    {
+      "date": "2023-10-01",
+      "observed": 9.05,
+      "predicted": 8.68,
+      "residual": 0.37
+    },
+    {
+      "date": "2023-10-02",
+      "observed": 12.03,
+      "predicted": 10.19,
+      "residual": 1.84
+    },
+    {
+      "date": "2023-10-03",
+      "observed": 13.7,
+      "predicted": 12.38,
+      "residual": 1.32
+    },
+    {
+      "date": "2023-10-04",
+      "observed": 13.6,
+      "predicted": 13.05,
+      "residual": 0.55
+    },
+    {
+      "date": "2023-10-05",
+      "observed": 14.8,
+      "predicted": 13.06,
+      "residual": 1.74
+    },
+    {
+      "date": "2023-10-06",
+      "observed": 11.85,
+      "predicted": 13.88,
+      "residual": -2.03
+    },
+    {
+      "date": "2023-10-07",
+      "observed": 13.5,
+      "predicted": 11.79,
+      "residual": 1.71
+    },
+    {
+      "date": "2023-10-08",
+      "observed": 15.43,
+      "predicted": 13.46,
+      "residual": 1.98
+    },
+    {
+      "date": "2023-10-09",
+      "observed": 8.1,
+      "predicted": 14.15,
+      "residual": -6.05
+    },
+    {
+      "date": "2023-10-10",
+      "observed": 10.45,
+      "predicted": 8.92,
+      "residual": 1.53
+    },
+    {
+      "date": "2023-10-11",
+      "observed": 11.55,
+      "predicted": 10.76,
+      "residual": 0.79
+    },
+    {
+      "date": "2023-10-12",
+      "observed": 14.2,
+      "predicted": 11.74,
+      "residual": 2.46
+    },
+    {
+      "date": "2023-10-13",
+      "observed": 14.95,
+      "predicted": 13.93,
+      "residual": 1.02
+    },
+    {
+      "date": "2023-10-14",
+      "observed": 15.33,
+      "predicted": 14.75,
+      "residual": 0.58
+    },
+    {
+      "date": "2023-10-15",
+      "observed": 15.1,
+      "predicted": 14.55,
+      "residual": 0.55
+    },
+    {
+      "date": "2023-10-16",
+      "observed": 15.95,
+      "predicted": 14.47,
+      "residual": 1.48
+    },
+    {
+      "date": "2023-10-17",
+      "observed": 22.0,
+      "predicted": 14.81,
+      "residual": 7.19
+    },
+    {
+      "date": "2023-10-18",
+      "observed": 19.1,
+      "predicted": 18.7,
+      "residual": 0.4
+    },
+    {
+      "date": "2023-10-19",
+      "observed": 16.1,
+      "predicted": 17.43,
+      "residual": -1.33
+    },
+    {
+      "date": "2023-10-20",
+      "observed": 11.23,
+      "predicted": 14.99,
+      "residual": -3.76
+    },
+    {
+      "date": "2023-10-21",
+      "observed": 6.45,
+      "predicted": 11.45,
+      "residual": -5.0
+    },
+    {
+      "date": "2023-10-22",
+      "observed": 5.05,
+      "predicted": 7.8,
+      "residual": -2.75
+    },
+    {
+      "date": "2023-10-23",
+      "observed": 7.55,
+      "predicted": 6.61,
+      "residual": 0.94
+    },
+    {
+      "date": "2023-10-24",
+      "observed": 8.1,
+      "predicted": 8.32,
+      "residual": -0.22
+    },
+    {
+      "date": "2023-10-25",
+      "observed": 9.9,
+      "predicted": 8.54,
+      "residual": 1.36
+    },
+    {
+      "date": "2023-10-26",
+      "observed": 11.13,
+      "predicted": 10.93,
+      "residual": 0.21
+    },
+    {
+      "date": "2023-10-27",
+      "observed": 10.8,
+      "predicted": 11.46,
+      "residual": -0.66
+    },
+    {
+      "date": "2023-10-28",
+      "observed": 9.8,
+      "predicted": 11.15,
+      "residual": -1.35
+    },
+    {
+      "date": "2023-10-29",
+      "observed": 6.75,
+      "predicted": 6.98,
+      "residual": -0.23
+    },
+    {
+      "date": "2023-10-30",
+      "observed": 7.4,
+      "predicted": 7.31,
+      "residual": 0.09
+    },
+    {
+      "date": "2023-10-31",
+      "observed": 10.15,
+      "predicted": 9.07,
+      "residual": 1.08
+    },
+    {
+      "date": "2023-11-01",
+      "observed": 13.27,
+      "predicted": 11.56,
+      "residual": 1.7
+    },
+    {
+      "date": "2023-11-02",
+      "observed": 17.8,
+      "predicted": 13.84,
+      "residual": 3.96
+    },
+    {
+      "date": "2023-11-03",
+      "observed": 19.8,
+      "predicted": 16.54,
+      "residual": 3.26
+    },
+    {
+      "date": "2023-11-04",
+      "observed": 20.2,
+      "predicted": 17.9,
+      "residual": 2.3
+    },
+    {
+      "date": "2023-11-05",
+      "observed": 13.2,
+      "predicted": 18.02,
+      "residual": -4.82
+    },
+    {
+      "date": "2023-11-06",
+      "observed": 7.15,
+      "predicted": 12.86,
+      "residual": -5.71
+    },
+    {
+      "date": "2023-11-07",
+      "observed": 9.17,
+      "predicted": 8.12,
+      "residual": 1.04
+    },
+    {
+      "date": "2023-11-08",
+      "observed": 8.8,
+      "predicted": 8.56,
+      "residual": 0.24
+    },
+    {
+      "date": "2023-11-09",
+      "observed": 15.1,
+      "predicted": 8.32,
+      "residual": 6.78
+    },
+    {
+      "date": "2023-11-10",
+      "observed": 12.5,
+      "predicted": 14.86,
+      "residual": -2.36
+    },
+    {
+      "date": "2023-11-11",
+      "observed": 12.2,
+      "predicted": 12.93,
+      "residual": -0.73
+    },
+    {
+      "date": "2023-11-12",
+      "observed": 11.85,
+      "predicted": 12.49,
+      "residual": -0.64
+    },
+    {
+      "date": "2023-11-13",
+      "observed": 11.77,
+      "predicted": 12.25,
+      "residual": -0.49
+    },
+    {
+      "date": "2023-11-14",
+      "observed": 12.85,
+      "predicted": 12.43,
+      "residual": 0.42
+    },
+    {
+      "date": "2023-11-15",
+      "observed": 7.1,
+      "predicted": 12.51,
+      "residual": -5.41
+    },
+    {
+      "date": "2023-11-16",
+      "observed": 8.65,
+      "predicted": 8.94,
+      "residual": -0.29
+    },
+    {
+      "date": "2023-11-17",
+      "observed": 5.35,
+      "predicted": 9.84,
+      "residual": -4.49
+    },
+    {
+      "date": "2023-11-18",
+      "observed": 5.9,
+      "predicted": 7.12,
+      "residual": -1.22
+    },
+    {
+      "date": "2023-11-19",
+      "observed": 10.63,
+      "predicted": 7.35,
+      "residual": 3.28
+    },
+    {
+      "date": "2023-11-20",
+      "observed": 2.5,
+      "predicted": 7.31,
+      "residual": -4.81
+    },
+    {
+      "date": "2023-11-21",
+      "observed": 6.6,
+      "predicted": 5.42,
+      "residual": 1.18
+    },
+    {
+      "date": "2023-11-22",
+      "observed": 7.9,
+      "predicted": 8.99,
+      "residual": -1.09
+    },
+    {
+      "date": "2023-11-23",
+      "observed": 9.8,
+      "predicted": 8.63,
+      "residual": 1.17
+    },
+    {
+      "date": "2023-11-24",
+      "observed": 8.45,
+      "predicted": 9.62,
+      "residual": -1.17
+    },
+    {
+      "date": "2023-11-25",
+      "observed": 2.47,
+      "predicted": 9.47,
+      "residual": -7.01
+    },
+    {
+      "date": "2023-11-26",
+      "observed": 5.0,
+      "predicted": 4.31,
+      "residual": 0.69
+    },
+    {
+      "date": "2023-11-27",
+      "observed": 9.4,
+      "predicted": 7.98,
+      "residual": 1.42
+    },
+    {
+      "date": "2023-11-28",
+      "observed": 9.75,
+      "predicted": 10.97,
+      "residual": -1.22
+    },
+    {
+      "date": "2023-11-29",
+      "observed": 6.9,
+      "predicted": 10.75,
+      "residual": -3.85
+    },
+    {
+      "date": "2023-11-30",
+      "observed": 8.55,
+      "predicted": 8.5,
+      "residual": 0.05
+    },
+    {
+      "date": "2023-12-01",
+      "observed": 12.47,
+      "predicted": 10.08,
+      "residual": 2.38
+    },
+    {
+      "date": "2023-12-02",
+      "observed": 16.6,
+      "predicted": 12.52,
+      "residual": 4.08
+    },
+    {
+      "date": "2023-12-03",
+      "observed": 21.55,
+      "predicted": 15.8,
+      "residual": 5.75
+    },
+    {
+      "date": "2023-12-04",
+      "observed": 17.45,
+      "predicted": 19.25,
+      "residual": -1.8
+    },
+    {
+      "date": "2023-12-05",
+      "observed": 13.1,
+      "predicted": 16.38,
+      "residual": -3.28
+    },
+    {
+      "date": "2023-12-06",
+      "observed": 12.6,
+      "predicted": 12.95,
+      "residual": -0.35
+    },
+    {
+      "date": "2023-12-07",
+      "observed": 14.53,
+      "predicted": 12.22,
+      "residual": 2.31
+    },
+    {
+      "date": "2023-12-08",
+      "observed": 6.8,
+      "predicted": 14.08,
+      "residual": -7.28
+    },
+    {
+      "date": "2023-12-09",
+      "observed": 7.7,
+      "predicted": 8.04,
+      "residual": -0.34
+    },
+    {
+      "date": "2023-12-10",
+      "observed": 12.45,
+      "predicted": 9.74,
+      "residual": 2.71
+    },
+    {
+      "date": "2023-12-11",
+      "observed": 13.8,
+      "predicted": 12.97,
+      "residual": 0.83
+    },
+    {
+      "date": "2023-12-12",
+      "observed": 17.4,
+      "predicted": 13.43,
+      "residual": 3.97
+    },
+    {
+      "date": "2023-12-13",
+      "observed": 9.4,
+      "predicted": 16.42,
+      "residual": -7.02
+    },
+    {
+      "date": "2023-12-14",
+      "observed": 12.4,
+      "predicted": 10.97,
+      "residual": 1.43
+    },
+    {
+      "date": "2023-12-15",
+      "observed": 10.2,
+      "predicted": 13.02,
+      "residual": -2.82
+    },
+    {
+      "date": "2023-12-16",
+      "observed": 16.9,
+      "predicted": 11.6,
+      "residual": 5.3
+    },
+    {
+      "date": "2023-12-17",
+      "observed": 16.6,
+      "predicted": 15.77,
+      "residual": 0.83
+    },
+    {
+      "date": "2023-12-18",
+      "observed": 8.9,
+      "predicted": 15.48,
+      "residual": -6.58
+    },
+    {
+      "date": "2023-12-19",
+      "observed": 4.43,
+      "predicted": 10.06,
+      "residual": -5.63
+    },
+    {
+      "date": "2023-12-20",
+      "observed": 4.2,
+      "predicted": 5.95,
+      "residual": -1.75
+    },
+    {
+      "date": "2023-12-21",
+      "observed": 4.8,
+      "predicted": 6.13,
+      "residual": -1.33
+    },
+    {
+      "date": "2023-12-22",
+      "observed": 8.35,
+      "predicted": 6.73,
+      "residual": 1.62
+    },
+    {
+      "date": "2023-12-23",
+      "observed": 18.0,
+      "predicted": 9.48,
+      "residual": 8.52
+    },
+    {
+      "date": "2023-12-24",
+      "observed": 20.9,
+      "predicted": 16.99,
+      "residual": 3.91
+    },
+    {
+      "date": "2023-12-25",
+      "observed": 24.53,
+      "predicted": 18.81,
+      "residual": 5.73
+    },
+    {
+      "date": "2023-12-26",
+      "observed": 22.75,
+      "predicted": 21.51,
+      "residual": 1.24
+    },
+    {
+      "date": "2023-12-27",
+      "observed": 32.55,
+      "predicted": 20.14,
+      "residual": 12.41
+    },
+    {
+      "date": "2023-12-28",
+      "observed": 26.8,
+      "predicted": 26.66,
+      "residual": 0.14
+    },
+    {
+      "date": "2023-12-29",
+      "observed": 10.15,
+      "predicted": 22.75,
+      "residual": -12.6
+    },
+    {
+      "date": "2023-12-30",
+      "observed": 12.15,
+      "predicted": 10.39,
+      "residual": 1.76
+    },
+    {
+      "date": "2023-12-31",
+      "observed": 12.13,
+      "predicted": 12.48,
+      "residual": -0.35
+    },
+    {
+      "date": "2024-01-01",
+      "observed": 12.85,
+      "predicted": 12.99,
+      "residual": -0.14
+    },
+    {
+      "date": "2024-01-02",
+      "observed": 5.25,
+      "predicted": 13.09,
+      "residual": -7.84
+    },
+    {
+      "date": "2024-01-03",
+      "observed": 6.1,
+      "predicted": 7.19,
+      "residual": -1.09
+    },
+    {
+      "date": "2024-01-04",
+      "observed": 11.2,
+      "predicted": 8.26,
+      "residual": 2.94
+    },
+    {
+      "date": "2024-01-05",
+      "observed": 11.05,
+      "predicted": 11.89,
+      "residual": -0.84
+    },
+    {
+      "date": "2024-01-06",
+      "observed": 3.2,
+      "predicted": 11.09,
+      "residual": -7.89
+    },
+    {
+      "date": "2024-01-07",
+      "observed": 6.2,
+      "predicted": 4.26,
+      "residual": 1.94
+    },
+    {
+      "date": "2024-01-08",
+      "observed": 9.7,
+      "predicted": 8.17,
+      "residual": 1.53
+    },
+    {
+      "date": "2024-01-09",
+      "observed": 9.3,
+      "predicted": 10.4,
+      "residual": -1.1
+    },
+    {
+      "date": "2024-01-10",
+      "observed": 5.3,
+      "predicted": 9.9,
+      "residual": -4.6
+    },
+    {
+      "date": "2024-01-11",
+      "observed": 9.4,
+      "predicted": 7.4,
+      "residual": 2.0
+    },
+    {
+      "date": "2024-01-12",
+      "observed": 13.77,
+      "predicted": 10.59,
+      "residual": 3.18
+    },
+    {
+      "date": "2024-01-13",
+      "observed": 13.9,
+      "predicted": 13.79,
+      "residual": 0.11
+    },
+    {
+      "date": "2024-01-14",
+      "observed": 21.0,
+      "predicted": 13.73,
+      "residual": 7.27
+    },
+    {
+      "date": "2024-01-15",
+      "observed": 28.25,
+      "predicted": 18.72,
+      "residual": 9.53
+    },
+    {
+      "date": "2024-01-16",
+      "observed": 18.15,
+      "predicted": 23.5,
+      "residual": -5.35
+    },
+    {
+      "date": "2024-01-17",
+      "observed": 12.7,
+      "predicted": 16.16,
+      "residual": -3.46
+    },
+    {
+      "date": "2024-01-18",
+      "observed": 20.3,
+      "predicted": 12.99,
+      "residual": 7.31
+    },
+    {
+      "date": "2024-01-19",
+      "observed": 10.8,
+      "predicted": 18.01,
+      "residual": -7.21
+    },
+    {
+      "date": "2024-01-20",
+      "observed": 5.1,
+      "predicted": 10.88,
+      "residual": -5.78
+    },
+    {
+      "date": "2024-01-21",
+      "observed": 4.75,
+      "predicted": 6.56,
+      "residual": -1.81
+    },
+    {
+      "date": "2024-01-22",
+      "observed": 9.15,
+      "predicted": 6.29,
+      "residual": 2.86
+    },
+    {
+      "date": "2024-01-23",
+      "observed": 8.15,
+      "predicted": 10.42,
+      "residual": -2.27
+    },
+    {
+      "date": "2024-01-24",
+      "observed": 5.43,
+      "predicted": 9.5,
+      "residual": -4.07
+    },
+    {
+      "date": "2024-01-25",
+      "observed": 9.25,
+      "predicted": 7.32,
+      "residual": 1.93
+    },
+    {
+      "date": "2024-01-26",
+      "observed": 6.05,
+      "predicted": 10.41,
+      "residual": -4.36
+    },
+    {
+      "date": "2024-01-27",
+      "observed": 5.55,
+      "predicted": 7.92,
+      "residual": -2.37
+    },
+    {
+      "date": "2024-01-28",
+      "observed": 7.8,
+      "predicted": 7.96,
+      "residual": -0.16
+    },
+    {
+      "date": "2024-01-29",
+      "observed": 11.65,
+      "predicted": 9.88,
+      "residual": 1.77
+    },
+    {
+      "date": "2024-01-30",
+      "observed": 13.57,
+      "predicted": 12.04,
+      "residual": 1.53
+    },
+    {
+      "date": "2024-01-31",
+      "observed": 6.55,
+      "predicted": 12.49,
+      "residual": -5.94
+    },
+    {
+      "date": "2024-02-01",
+      "observed": 4.8,
+      "predicted": 6.78,
+      "residual": -1.98
+    },
+    {
+      "date": "2024-02-02",
+      "observed": 3.6,
+      "predicted": 6.83,
+      "residual": -3.23
+    },
+    {
+      "date": "2024-02-03",
+      "observed": 2.8,
+      "predicted": 6.31,
+      "residual": -3.51
+    },
+    {
+      "date": "2024-02-04",
+      "observed": 1.8,
+      "predicted": 3.99,
+      "residual": -2.19
+    },
+    {
+      "date": "2024-02-05",
+      "observed": 3.27,
+      "predicted": 3.37,
+      "residual": -0.1
+    },
+    {
+      "date": "2024-02-06",
+      "observed": 4.75,
+      "predicted": 5.31,
+      "residual": -0.56
+    },
+    {
+      "date": "2024-02-07",
+      "observed": 4.25,
+      "predicted": 6.32,
+      "residual": -2.07
+    },
+    {
+      "date": "2024-02-08",
+      "observed": 4.9,
+      "predicted": 5.84,
+      "residual": -0.94
+    },
+    {
+      "date": "2024-02-09",
+      "observed": 7.0,
+      "predicted": 7.68,
+      "residual": -0.68
+    },
+    {
+      "date": "2024-02-10",
+      "observed": 7.9,
+      "predicted": 9.34,
+      "residual": -1.44
+    },
+    {
+      "date": "2024-02-11",
+      "observed": 9.43,
+      "predicted": 9.64,
+      "residual": -0.21
+    },
+    {
+      "date": "2024-02-12",
+      "observed": 9.7,
+      "predicted": 10.92,
+      "residual": -1.22
+    },
+    {
+      "date": "2024-02-13",
+      "observed": 9.6,
+      "predicted": 10.48,
+      "residual": -0.88
+    },
+    {
+      "date": "2024-02-14",
+      "observed": 8.1,
+      "predicted": 10.96,
+      "residual": -2.86
+    },
+    {
+      "date": "2024-02-15",
+      "observed": 15.0,
+      "predicted": 9.47,
+      "residual": 5.53
+    },
+    {
+      "date": "2024-02-16",
+      "observed": 22.05,
+      "predicted": 14.32,
+      "residual": 7.73
+    },
+    {
+      "date": "2024-02-17",
+      "observed": 5.45,
+      "predicted": 19.2,
+      "residual": -13.75
+    },
+    {
+      "date": "2024-02-18",
+      "observed": 2.7,
+      "predicted": 7.2,
+      "residual": -4.5
+    },
+    {
+      "date": "2024-02-19",
+      "observed": 2.65,
+      "predicted": 4.41,
+      "residual": -1.76
+    },
+    {
+      "date": "2024-02-20",
+      "observed": 3.15,
+      "predicted": 4.28,
+      "residual": -1.13
+    },
+    {
+      "date": "2024-02-21",
+      "observed": 7.9,
+      "predicted": 5.5,
+      "residual": 2.4
+    },
+    {
+      "date": "2024-02-22",
+      "observed": 7.8,
+      "predicted": 9.64,
+      "residual": -1.84
+    },
+    {
+      "date": "2024-02-23",
+      "observed": 10.13,
+      "predicted": 9.57,
+      "residual": 0.56
+    },
+    {
+      "date": "2024-02-24",
+      "observed": 13.1,
+      "predicted": 11.4,
+      "residual": 1.7
+    },
+    {
+      "date": "2024-02-25",
+      "observed": 15.55,
+      "predicted": 13.18,
+      "residual": 2.37
+    },
+    {
+      "date": "2024-02-26",
+      "observed": 8.1,
+      "predicted": 14.93,
+      "residual": -6.83
+    },
+    {
+      "date": "2024-02-27",
+      "observed": 9.85,
+      "predicted": 9.7,
+      "residual": 0.15
+    },
+    {
+      "date": "2024-02-28",
+      "observed": 5.5,
+      "predicted": 10.82,
+      "residual": -5.32
+    },
+    {
+      "date": "2024-02-29",
+      "observed": 3.83,
+      "predicted": 7.54,
+      "residual": -3.71
+    },
+    {
+      "date": "2024-03-01",
+      "observed": 3.3,
+      "predicted": 5.71,
+      "residual": -2.41
+    },
+    {
+      "date": "2024-03-02",
+      "observed": 4.45,
+      "predicted": 4.7,
+      "residual": -0.25
+    },
+    {
+      "date": "2024-03-03",
+      "observed": 4.6,
+      "predicted": 6.31,
+      "residual": -1.71
+    },
+    {
+      "date": "2024-03-04",
+      "observed": 5.5,
+      "predicted": 6.39,
+      "residual": -0.89
+    },
+    {
+      "date": "2024-03-05",
+      "observed": 4.7,
+      "predicted": 8.09,
+      "residual": -3.39
+    },
+    {
+      "date": "2024-03-06",
+      "observed": 6.77,
+      "predicted": 5.84,
+      "residual": 0.92
+    },
+    {
+      "date": "2024-03-07",
+      "observed": 8.85,
+      "predicted": 8.25,
+      "residual": 0.6
+    },
+    {
+      "date": "2024-03-08",
+      "observed": 12.05,
+      "predicted": 9.9,
+      "residual": 2.15
+    },
+    {
+      "date": "2024-03-09",
+      "observed": 8.6,
+      "predicted": 12.16,
+      "residual": -3.56
+    },
+    {
+      "date": "2024-03-10",
+      "observed": 6.45,
+      "predicted": 9.89,
+      "residual": -3.44
+    },
+    {
+      "date": "2024-03-11",
+      "observed": 4.75,
+      "predicted": 8.03,
+      "residual": -3.28
+    },
+    {
+      "date": "2024-03-12",
+      "observed": 6.73,
+      "predicted": 6.88,
+      "residual": -0.14
+    },
+    {
+      "date": "2024-03-13",
+      "observed": 4.85,
+      "predicted": 7.92,
+      "residual": -3.07
+    },
+    {
+      "date": "2024-03-14",
+      "observed": 3.95,
+      "predicted": 2.6,
+      "residual": 1.35
+    },
+    {
+      "date": "2024-03-15",
+      "observed": 6.2,
+      "predicted": 4.78,
+      "residual": 1.42
+    },
+    {
+      "date": "2024-03-16",
+      "observed": 7.4,
+      "predicted": 7.79,
+      "residual": -0.39
+    },
+    {
+      "date": "2024-03-17",
+      "observed": 12.05,
+      "predicted": 8.68,
+      "residual": 3.37
+    },
+    {
+      "date": "2024-03-18",
+      "observed": 9.33,
+      "predicted": 12.3,
+      "residual": -2.96
+    },
+    {
+      "date": "2024-03-19",
+      "observed": 10.3,
+      "predicted": 9.84,
+      "residual": 0.46
+    },
+    {
+      "date": "2024-03-20",
+      "observed": 9.6,
+      "predicted": 10.66,
+      "residual": -1.06
+    },
+    {
+      "date": "2024-03-21",
+      "observed": 11.1,
+      "predicted": 10.18,
+      "residual": 0.92
+    },
+    {
+      "date": "2024-03-22",
+      "observed": 6.1,
+      "predicted": 11.05,
+      "residual": -4.95
+    },
+    {
+      "date": "2024-03-23",
+      "observed": 4.1,
+      "predicted": 6.34,
+      "residual": -2.24
+    },
+    {
+      "date": "2024-03-24",
+      "observed": 7.17,
+      "predicted": 5.66,
+      "residual": 1.51
+    },
+    {
+      "date": "2024-03-25",
+      "observed": 8.1,
+      "predicted": 7.9,
+      "residual": 0.2
+    },
+    {
+      "date": "2024-03-26",
+      "observed": 10.25,
+      "predicted": 8.38,
+      "residual": 1.87
+    },
+    {
+      "date": "2024-03-27",
+      "observed": 9.45,
+      "predicted": 10.47,
+      "residual": -1.02
+    },
+    {
+      "date": "2024-03-28",
+      "observed": 5.55,
+      "predicted": 9.84,
+      "residual": -4.29
+    },
+    {
+      "date": "2024-03-29",
+      "observed": 4.2,
+      "predicted": 6.41,
+      "residual": -2.21
+    },
+    {
+      "date": "2024-03-30",
+      "observed": 4.2,
+      "predicted": 4.64,
+      "residual": -0.44
+    },
+    {
+      "date": "2024-03-31",
+      "observed": 6.65,
+      "predicted": 5.25,
+      "residual": 1.4
+    },
+    {
+      "date": "2024-04-01",
+      "observed": 7.5,
+      "predicted": 8.4,
+      "residual": -0.9
+    },
+    {
+      "date": "2024-04-02",
+      "observed": 10.05,
+      "predicted": 8.98,
+      "residual": 1.07
+    },
+    {
+      "date": "2024-04-03",
+      "observed": 4.15,
+      "predicted": 10.41,
+      "residual": -6.26
+    },
+    {
+      "date": "2024-04-04",
+      "observed": 4.05,
+      "predicted": 5.69,
+      "residual": -1.64
+    },
+    {
+      "date": "2024-04-05",
+      "observed": 7.07,
+      "predicted": 5.43,
+      "residual": 1.64
+    },
+    {
+      "date": "2024-04-06",
+      "observed": 7.85,
+      "predicted": 8.38,
+      "residual": -0.53
+    },
+    {
+      "date": "2024-04-07",
+      "observed": 9.05,
+      "predicted": 9.06,
+      "residual": -0.01
+    },
+    {
+      "date": "2024-04-08",
+      "observed": 8.5,
+      "predicted": 9.8,
+      "residual": -1.3
+    },
+    {
+      "date": "2024-04-09",
+      "observed": 11.25,
+      "predicted": 9.12,
+      "residual": 2.13
+    },
+    {
+      "date": "2024-04-10",
+      "observed": 13.0,
+      "predicted": 11.3,
+      "residual": 1.7
+    },
+    {
+      "date": "2024-04-11",
+      "observed": 9.53,
+      "predicted": 12.18,
+      "residual": -2.65
+    },
+    {
+      "date": "2024-04-12",
+      "observed": 5.55,
+      "predicted": 9.13,
+      "residual": -3.58
+    },
+    {
+      "date": "2024-04-13",
+      "observed": 5.25,
+      "predicted": 6.01,
+      "residual": -0.76
+    },
+    {
+      "date": "2024-04-14",
+      "observed": 6.45,
+      "predicted": 6.93,
+      "residual": -0.48
+    },
+    {
+      "date": "2024-04-15",
+      "observed": 8.9,
+      "predicted": 8.5,
+      "residual": 0.4
+    },
+    {
+      "date": "2024-04-16",
+      "observed": 10.05,
+      "predicted": 10.01,
+      "residual": 0.04
+    },
+    {
+      "date": "2024-04-17",
+      "observed": 10.1,
+      "predicted": 10.49,
+      "residual": -0.39
+    },
+    {
+      "date": "2024-04-18",
+      "observed": 9.95,
+      "predicted": 10.67,
+      "residual": -0.72
+    },
+    {
+      "date": "2024-04-19",
+      "observed": 12.0,
+      "predicted": 9.8,
+      "residual": 2.2
+    },
+    {
+      "date": "2024-04-23",
+      "observed": 6.67,
+      "predicted": 7.48,
+      "residual": -0.82
+    },
+    {
+      "date": "2024-04-24",
+      "observed": 4.2,
+      "predicted": 7.64,
+      "residual": -3.44
+    },
+    {
+      "date": "2024-04-25",
+      "observed": 6.55,
+      "predicted": 5.73,
+      "residual": 0.82
+    },
+    {
+      "date": "2024-04-26",
+      "observed": 8.45,
+      "predicted": 6.86,
+      "residual": 1.59
+    },
+    {
+      "date": "2024-04-27",
+      "observed": 9.4,
+      "predicted": 8.7,
+      "residual": 0.7
+    },
+    {
+      "date": "2024-04-28",
+      "observed": 11.3,
+      "predicted": 10.04,
+      "residual": 1.26
+    },
+    {
+      "date": "2024-04-29",
+      "observed": 10.17,
+      "predicted": 11.26,
+      "residual": -1.09
+    },
+    {
+      "date": "2024-04-30",
+      "observed": 13.3,
+      "predicted": 9.63,
+      "residual": 3.67
+    },
+    {
+      "date": "2024-05-01",
+      "observed": 12.8,
+      "predicted": 11.85,
+      "residual": 0.95
+    },
+    {
+      "date": "2024-05-02",
+      "observed": 11.0,
+      "predicted": 12.28,
+      "residual": -1.28
+    },
+    {
+      "date": "2024-05-03",
+      "observed": 8.6,
+      "predicted": 10.59,
+      "residual": -1.99
+    },
+    {
+      "date": "2024-05-04",
+      "observed": 4.85,
+      "predicted": 8.88,
+      "residual": -4.03
+    },
+    {
+      "date": "2024-05-05",
+      "observed": 7.3,
+      "predicted": 5.75,
+      "residual": 1.55
+    },
+    {
+      "date": "2024-05-06",
+      "observed": 7.7,
+      "predicted": 8.38,
+      "residual": -0.68
+    },
+    {
+      "date": "2024-05-07",
+      "observed": 9.85,
+      "predicted": 8.11,
+      "residual": 1.74
+    },
+    {
+      "date": "2024-05-08",
+      "observed": 11.75,
+      "predicted": 9.42,
+      "residual": 2.33
+    },
+    {
+      "date": "2024-05-09",
+      "observed": 14.2,
+      "predicted": 10.63,
+      "residual": 3.57
+    },
+    {
+      "date": "2024-05-10",
+      "observed": 12.25,
+      "predicted": 13.16,
+      "residual": -0.91
+    },
+    {
+      "date": "2024-05-11",
+      "observed": 10.27,
+      "predicted": 11.75,
+      "residual": -1.48
+    },
+    {
+      "date": "2024-05-12",
+      "observed": 6.85,
+      "predicted": 10.94,
+      "residual": -4.09
+    },
+    {
+      "date": "2024-05-13",
+      "observed": 6.1,
+      "predicted": 7.61,
+      "residual": -1.51
+    },
+    {
+      "date": "2024-05-14",
+      "observed": 5.2,
+      "predicted": 7.17,
+      "residual": -1.97
+    },
+    {
+      "date": "2024-05-15",
+      "observed": 4.85,
+      "predicted": 7.1,
+      "residual": -2.25
+    },
+    {
+      "date": "2024-05-16",
+      "observed": 4.75,
+      "predicted": 7.02,
+      "residual": -2.27
+    },
+    {
+      "date": "2024-05-17",
+      "observed": 5.73,
+      "predicted": 6.88,
+      "residual": -1.14
+    },
+    {
+      "date": "2024-05-18",
+      "observed": 5.35,
+      "predicted": 7.62,
+      "residual": -2.27
+    },
+    {
+      "date": "2024-05-19",
+      "observed": 5.85,
+      "predicted": 7.05,
+      "residual": -1.2
+    },
+    {
+      "date": "2024-05-20",
+      "observed": 10.0,
+      "predicted": 7.0,
+      "residual": 3.0
+    },
+    {
+      "date": "2024-05-21",
+      "observed": 11.25,
+      "predicted": 10.3,
+      "residual": 0.95
+    },
+    {
+      "date": "2024-05-22",
+      "observed": 9.35,
+      "predicted": 11.07,
+      "residual": -1.72
+    },
+    {
+      "date": "2024-05-23",
+      "observed": 9.07,
+      "predicted": 9.0,
+      "residual": 0.07
+    },
+    {
+      "date": "2024-05-24",
+      "observed": 6.5,
+      "predicted": 9.12,
+      "residual": -2.62
+    },
+    {
+      "date": "2024-05-25",
+      "observed": 5.3,
+      "predicted": 7.6,
+      "residual": -2.3
+    },
+    {
+      "date": "2024-05-26",
+      "observed": 9.35,
+      "predicted": 6.86,
+      "residual": 2.49
+    },
+    {
+      "date": "2024-05-27",
+      "observed": 11.25,
+      "predicted": 9.62,
+      "residual": 1.63
+    },
+    {
+      "date": "2024-05-28",
+      "observed": 8.35,
+      "predicted": 10.92,
+      "residual": -2.57
+    },
+    {
+      "date": "2024-05-29",
+      "observed": 10.6,
+      "predicted": 8.55,
+      "residual": 2.05
+    },
+    {
+      "date": "2024-05-30",
+      "observed": 9.25,
+      "predicted": 10.16,
+      "residual": -0.91
+    },
+    {
+      "date": "2024-05-31",
+      "observed": 6.75,
+      "predicted": 9.4,
+      "residual": -2.65
+    },
+    {
+      "date": "2024-06-01",
+      "observed": 6.1,
+      "predicted": 7.85,
+      "residual": -1.75
+    },
+    {
+      "date": "2024-06-02",
+      "observed": 7.35,
+      "predicted": 7.25,
+      "residual": 0.1
+    },
+    {
+      "date": "2024-06-03",
+      "observed": 7.35,
+      "predicted": 8.57,
+      "residual": -1.22
+    },
+    {
+      "date": "2024-06-04",
+      "observed": 7.63,
+      "predicted": 8.1,
+      "residual": -0.47
+    },
+    {
+      "date": "2024-06-05",
+      "observed": 7.65,
+      "predicted": 7.99,
+      "residual": -0.34
+    },
+    {
+      "date": "2024-06-06",
+      "observed": 3.5,
+      "predicted": 8.46,
+      "residual": -4.96
+    },
+    {
+      "date": "2024-06-07",
+      "observed": 3.3,
+      "predicted": 5.24,
+      "residual": -1.94
+    },
+    {
+      "date": "2024-06-08",
+      "observed": 3.8,
+      "predicted": 5.35,
+      "residual": -1.55
+    },
+    {
+      "date": "2024-06-09",
+      "observed": 7.95,
+      "predicted": 5.61,
+      "residual": 2.34
+    },
+    {
+      "date": "2024-06-10",
+      "observed": 8.23,
+      "predicted": 9.06,
+      "residual": -0.82
+    },
+    {
+      "date": "2024-06-11",
+      "observed": 5.9,
+      "predicted": 9.02,
+      "residual": -3.12
+    },
+    {
+      "date": "2024-06-12",
+      "observed": 8.55,
+      "predicted": 7.04,
+      "residual": 1.51
+    },
+    {
+      "date": "2024-06-13",
+      "observed": 8.6,
+      "predicted": 9.31,
+      "residual": -0.71
+    },
+    {
+      "date": "2024-06-14",
+      "observed": 13.2,
+      "predicted": 9.11,
+      "residual": 4.09
+    },
+    {
+      "date": "2024-06-15",
+      "observed": 15.7,
+      "predicted": 12.24,
+      "residual": 3.46
+    },
+    {
+      "date": "2024-06-16",
+      "observed": 16.3,
+      "predicted": 13.01,
+      "residual": 3.29
+    },
+    {
+      "date": "2024-06-17",
+      "observed": 13.4,
+      "predicted": 13.42,
+      "residual": -0.02
+    },
+    {
+      "date": "2024-06-18",
+      "observed": 13.45,
+      "predicted": 11.53,
+      "residual": 1.92
+    },
+    {
+      "date": "2024-06-19",
+      "observed": 13.5,
+      "predicted": 12.41,
+      "residual": 1.09
+    },
+    {
+      "date": "2024-06-20",
+      "observed": 12.6,
+      "predicted": 12.53,
+      "residual": 0.07
+    },
+    {
+      "date": "2024-06-21",
+      "observed": 13.25,
+      "predicted": 12.07,
+      "residual": 1.18
+    },
+    {
+      "date": "2024-06-22",
+      "observed": 11.33,
+      "predicted": 12.59,
+      "residual": -1.25
+    },
+    {
+      "date": "2024-06-23",
+      "observed": 7.6,
+      "predicted": 10.74,
+      "residual": -3.14
+    },
+    {
+      "date": "2024-06-24",
+      "observed": 10.4,
+      "predicted": 8.43,
+      "residual": 1.97
+    },
+    {
+      "date": "2024-06-25",
+      "observed": 11.0,
+      "predicted": 10.26,
+      "residual": 0.74
+    },
+    {
+      "date": "2024-06-26",
+      "observed": 10.8,
+      "predicted": 10.36,
+      "residual": 0.44
+    },
+    {
+      "date": "2024-06-27",
+      "observed": 10.9,
+      "predicted": 10.14,
+      "residual": 0.76
+    },
+    {
+      "date": "2024-06-28",
+      "observed": 11.73,
+      "predicted": 10.21,
+      "residual": 1.52
+    },
+    {
+      "date": "2024-06-29",
+      "observed": 11.2,
+      "predicted": 11.63,
+      "residual": -0.43
+    },
+    {
+      "date": "2024-06-30",
+      "observed": 8.35,
+      "predicted": 10.96,
+      "residual": -2.61
+    },
+    {
+      "date": "2024-07-01",
+      "observed": 9.5,
+      "predicted": 8.63,
+      "residual": 0.87
+    },
+    {
+      "date": "2024-07-02",
+      "observed": 13.6,
+      "predicted": 9.88,
+      "residual": 3.72
+    },
+    {
+      "date": "2024-07-03",
+      "observed": 36.65,
+      "predicted": 12.44,
+      "residual": 24.21
+    },
+    {
+      "date": "2024-07-04",
+      "observed": 22.27,
+      "predicted": 28.22,
+      "residual": -5.95
+    },
+    {
+      "date": "2024-07-05",
+      "observed": 10.0,
+      "predicted": 18.11,
+      "residual": -8.11
+    },
+    {
+      "date": "2024-07-06",
+      "observed": 8.6,
+      "predicted": 9.52,
+      "residual": -0.92
+    },
+    {
+      "date": "2024-07-07",
+      "observed": 9.3,
+      "predicted": 8.57,
+      "residual": 0.73
+    },
+    {
+      "date": "2024-07-08",
+      "observed": 10.5,
+      "predicted": 9.35,
+      "residual": 1.15
+    },
+    {
+      "date": "2024-07-09",
+      "observed": 13.45,
+      "predicted": 10.64,
+      "residual": 2.81
+    },
+    {
+      "date": "2024-07-10",
+      "observed": 9.03,
+      "predicted": 12.18,
+      "residual": -3.15
+    },
+    {
+      "date": "2024-07-11",
+      "observed": 7.9,
+      "predicted": 9.41,
+      "residual": -1.51
+    },
+    {
+      "date": "2024-07-12",
+      "observed": 7.25,
+      "predicted": 8.71,
+      "residual": -1.46
+    },
+    {
+      "date": "2024-07-13",
+      "observed": 8.4,
+      "predicted": 8.27,
+      "residual": 0.13
+    },
+    {
+      "date": "2024-07-14",
+      "observed": 8.55,
+      "predicted": 8.9,
+      "residual": -0.35
+    },
+    {
+      "date": "2024-07-15",
+      "observed": 7.45,
+      "predicted": 9.23,
+      "residual": -1.78
+    },
+    {
+      "date": "2024-07-16",
+      "observed": 7.3,
+      "predicted": 8.33,
+      "residual": -1.03
+    },
+    {
+      "date": "2024-07-17",
+      "observed": 8.1,
+      "predicted": 7.68,
+      "residual": 0.42
+    },
+    {
+      "date": "2024-07-18",
+      "observed": 11.3,
+      "predicted": 8.07,
+      "residual": 3.23
+    },
+    {
+      "date": "2024-07-19",
+      "observed": 12.55,
+      "predicted": 11.03,
+      "residual": 1.52
+    },
+    {
+      "date": "2024-07-20",
+      "observed": 10.05,
+      "predicted": 11.65,
+      "residual": -1.6
+    },
+    {
+      "date": "2024-07-21",
+      "observed": 10.5,
+      "predicted": 9.71,
+      "residual": 0.79
+    },
+    {
+      "date": "2024-07-22",
+      "observed": 8.57,
+      "predicted": 10.64,
+      "residual": -2.07
+    },
+    {
+      "date": "2024-07-23",
+      "observed": 10.15,
+      "predicted": 9.09,
+      "residual": 1.06
+    },
+    {
+      "date": "2024-07-24",
+      "observed": 14.55,
+      "predicted": 10.71,
+      "residual": 3.84
+    },
+    {
+      "date": "2024-07-25",
+      "observed": 10.4,
+      "predicted": 13.4,
+      "residual": -3.0
+    },
+    {
+      "date": "2024-07-26",
+      "observed": 11.25,
+      "predicted": 9.95,
+      "residual": 1.3
+    },
+    {
+      "date": "2024-07-27",
+      "observed": 8.8,
+      "predicted": 10.84,
+      "residual": -2.04
+    },
+    {
+      "date": "2024-07-28",
+      "observed": 8.8,
+      "predicted": 9.4,
+      "residual": -0.6
+    },
+    {
+      "date": "2024-07-29",
+      "observed": 8.25,
+      "predicted": 9.48,
+      "residual": -1.23
+    },
+    {
+      "date": "2024-07-30",
+      "observed": 8.1,
+      "predicted": 8.87,
+      "residual": -0.77
+    },
+    {
+      "date": "2024-07-31",
+      "observed": 8.55,
+      "predicted": 9.08,
+      "residual": -0.53
+    },
+    {
+      "date": "2024-08-01",
+      "observed": 9.0,
+      "predicted": 9.46,
+      "residual": -0.46
+    },
+    {
+      "date": "2024-08-02",
+      "observed": 9.4,
+      "predicted": 9.69,
+      "residual": -0.29
+    },
+    {
+      "date": "2024-08-03",
+      "observed": 9.3,
+      "predicted": 9.97,
+      "residual": -0.67
+    },
+    {
+      "date": "2024-08-04",
+      "observed": 12.3,
+      "predicted": 9.74,
+      "residual": 2.56
+    },
+    {
+      "date": "2024-08-05",
+      "observed": 10.9,
+      "predicted": 11.94,
+      "residual": -1.04
+    },
+    {
+      "date": "2024-08-06",
+      "observed": 12.05,
+      "predicted": 10.29,
+      "residual": 1.76
+    },
+    {
+      "date": "2024-08-07",
+      "observed": 11.6,
+      "predicted": 10.68,
+      "residual": 0.92
+    },
+    {
+      "date": "2024-08-08",
+      "observed": 9.0,
+      "predicted": 10.84,
+      "residual": -1.84
+    },
+    {
+      "date": "2024-08-09",
+      "observed": 10.23,
+      "predicted": 9.38,
+      "residual": 0.85
+    },
+    {
+      "date": "2024-08-10",
+      "observed": 13.05,
+      "predicted": 10.38,
+      "residual": 2.67
+    },
+    {
+      "date": "2024-08-11",
+      "observed": 11.3,
+      "predicted": 12.22,
+      "residual": -0.92
+    },
+    {
+      "date": "2024-08-12",
+      "observed": 9.6,
+      "predicted": 10.87,
+      "residual": -1.27
+    },
+    {
+      "date": "2024-08-13",
+      "observed": 12.25,
+      "predicted": 9.71,
+      "residual": 2.54
+    },
+    {
+      "date": "2024-08-14",
+      "observed": 11.45,
+      "predicted": 11.6,
+      "residual": -0.15
+    },
+    {
+      "date": "2024-08-15",
+      "observed": 9.83,
+      "predicted": 10.97,
+      "residual": -1.14
+    },
+    {
+      "date": "2024-08-16",
+      "observed": 9.95,
+      "predicted": 9.56,
+      "residual": 0.39
+    },
+    {
+      "date": "2024-08-17",
+      "observed": 10.6,
+      "predicted": 10.11,
+      "residual": 0.49
+    },
+    {
+      "date": "2024-08-18",
+      "observed": 9.5,
+      "predicted": 10.86,
+      "residual": -1.36
+    },
+    {
+      "date": "2024-08-19",
+      "observed": 11.1,
+      "predicted": 10.19,
+      "residual": 0.91
+    },
+    {
+      "date": "2024-08-20",
+      "observed": 11.35,
+      "predicted": 11.43,
+      "residual": -0.08
+    },
+    {
+      "date": "2024-08-21",
+      "observed": 10.23,
+      "predicted": 11.06,
+      "residual": -0.83
+    },
+    {
+      "date": "2024-08-22",
+      "observed": 8.55,
+      "predicted": 9.99,
+      "residual": -1.44
+    },
+    {
+      "date": "2024-08-23",
+      "observed": 9.05,
+      "predicted": 8.92,
+      "residual": 0.13
+    },
+    {
+      "date": "2024-08-24",
+      "observed": 10.65,
+      "predicted": 9.65,
+      "residual": 1.0
+    },
+    {
+      "date": "2024-08-25",
+      "observed": 12.75,
+      "predicted": 10.74,
+      "residual": 2.01
+    },
+    {
+      "date": "2024-08-26",
+      "observed": 12.95,
+      "predicted": 12.25,
+      "residual": 0.7
+    },
+    {
+      "date": "2024-08-27",
+      "observed": 12.73,
+      "predicted": 12.15,
+      "residual": 0.58
+    },
+    {
+      "date": "2024-08-28",
+      "observed": 13.0,
+      "predicted": 12.31,
+      "residual": 0.69
+    },
+    {
+      "date": "2024-08-29",
+      "observed": 12.25,
+      "predicted": 12.73,
+      "residual": -0.48
+    },
+    {
+      "date": "2024-08-30",
+      "observed": 12.6,
+      "predicted": 11.98,
+      "residual": 0.62
+    },
+    {
+      "date": "2024-08-31",
+      "observed": 11.95,
+      "predicted": 12.15,
+      "residual": -0.2
+    },
+    {
+      "date": "2024-09-01",
+      "observed": 12.9,
+      "predicted": 11.39,
+      "residual": 1.51
+    },
+    {
+      "date": "2024-09-02",
+      "observed": 13.27,
+      "predicted": 12.04,
+      "residual": 1.23
+    },
+    {
+      "date": "2024-09-03",
+      "observed": 11.3,
+      "predicted": 12.52,
+      "residual": -1.22
+    },
+    {
+      "date": "2024-09-04",
+      "observed": 11.7,
+      "predicted": 11.34,
+      "residual": 0.36
+    },
+    {
+      "date": "2024-09-05",
+      "observed": 14.85,
+      "predicted": 11.69,
+      "residual": 3.16
+    },
+    {
+      "date": "2024-09-06",
+      "observed": 18.7,
+      "predicted": 13.44,
+      "residual": 5.26
+    },
+    {
+      "date": "2024-09-07",
+      "observed": 16.0,
+      "predicted": 16.69,
+      "residual": -0.69
+    },
+    {
+      "date": "2024-09-08",
+      "observed": 14.93,
+      "predicted": 15.31,
+      "residual": -0.38
+    },
+    {
+      "date": "2024-09-09",
+      "observed": 10.4,
+      "predicted": 13.66,
+      "residual": -3.26
+    },
+    {
+      "date": "2024-09-10",
+      "observed": 7.25,
+      "predicted": 10.18,
+      "residual": -2.93
+    },
+    {
+      "date": "2024-09-11",
+      "observed": 9.65,
+      "predicted": 7.57,
+      "residual": 2.08
+    },
+    {
+      "date": "2024-09-12",
+      "observed": 9.25,
+      "predicted": 9.51,
+      "residual": -0.26
+    },
+    {
+      "date": "2024-09-13",
+      "observed": 11.15,
+      "predicted": 9.4,
+      "residual": 1.75
+    },
+    {
+      "date": "2024-09-14",
+      "observed": 8.63,
+      "predicted": 11.31,
+      "residual": -2.68
+    },
+    {
+      "date": "2024-09-15",
+      "observed": 6.55,
+      "predicted": 9.44,
+      "residual": -2.89
+    },
+    {
+      "date": "2024-09-16",
+      "observed": 7.8,
+      "predicted": 7.56,
+      "residual": 0.24
+    },
+    {
+      "date": "2024-09-17",
+      "observed": 8.6,
+      "predicted": 8.95,
+      "residual": -0.35
+    },
+    {
+      "date": "2024-09-18",
+      "observed": 6.7,
+      "predicted": 9.42,
+      "residual": -2.72
+    },
+    {
+      "date": "2024-09-19",
+      "observed": 8.0,
+      "predicted": 8.2,
+      "residual": -0.2
+    },
+    {
+      "date": "2024-09-20",
+      "observed": 8.13,
+      "predicted": 9.24,
+      "residual": -1.11
+    },
+    {
+      "date": "2024-09-21",
+      "observed": 14.15,
+      "predicted": 9.49,
+      "residual": 4.66
+    },
+    {
+      "date": "2024-09-22",
+      "observed": 15.45,
+      "predicted": 13.51,
+      "residual": 1.94
+    },
+    {
+      "date": "2024-09-23",
+      "observed": 10.2,
+      "predicted": 14.4,
+      "residual": -4.2
+    },
+    {
+      "date": "2024-09-24",
+      "observed": 11.2,
+      "predicted": 10.9,
+      "residual": 0.3
+    },
+    {
+      "date": "2024-09-25",
+      "observed": 11.05,
+      "predicted": 11.66,
+      "residual": -0.61
+    },
+    {
+      "date": "2024-09-26",
+      "observed": 13.03,
+      "predicted": 11.63,
+      "residual": 1.4
+    },
+    {
+      "date": "2024-09-27",
+      "observed": 15.8,
+      "predicted": 12.6,
+      "residual": 3.2
+    },
+    {
+      "date": "2024-09-28",
+      "observed": 14.9,
+      "predicted": 14.87,
+      "residual": 0.03
+    },
+    {
+      "date": "2024-09-29",
+      "observed": 12.8,
+      "predicted": 13.94,
+      "residual": -1.14
+    },
+    {
+      "date": "2024-09-30",
+      "observed": 12.5,
+      "predicted": 12.75,
+      "residual": -0.25
+    },
+    {
+      "date": "2024-10-01",
+      "observed": 9.9,
+      "predicted": 12.62,
+      "residual": -2.72
+    },
+    {
+      "date": "2024-10-02",
+      "observed": 12.43,
+      "predicted": 10.38,
+      "residual": 2.05
+    },
+    {
+      "date": "2024-10-03",
+      "observed": 14.95,
+      "predicted": 11.8,
+      "residual": 3.15
+    },
+    {
+      "date": "2024-10-04",
+      "observed": 19.05,
+      "predicted": 13.98,
+      "residual": 5.07
+    },
+    {
+      "date": "2024-10-05",
+      "observed": 14.8,
+      "predicted": 16.69,
+      "residual": -1.89
+    },
+    {
+      "date": "2024-10-06",
+      "observed": 12.2,
+      "predicted": 13.95,
+      "residual": -1.75
+    },
+    {
+      "date": "2024-10-07",
+      "observed": 13.15,
+      "predicted": 12.18,
+      "residual": 0.97
+    },
+    {
+      "date": "2024-10-08",
+      "observed": 17.43,
+      "predicted": 12.91,
+      "residual": 4.53
+    },
+    {
+      "date": "2024-10-09",
+      "observed": 18.4,
+      "predicted": 15.83,
+      "residual": 2.57
+    },
+    {
+      "date": "2024-10-10",
+      "observed": 18.0,
+      "predicted": 17.03,
+      "residual": 0.97
+    },
+    {
+      "date": "2024-10-11",
+      "observed": 11.6,
+      "predicted": 16.44,
+      "residual": -4.84
+    },
+    {
+      "date": "2024-10-12",
+      "observed": 8.85,
+      "predicted": 11.93,
+      "residual": -3.08
+    },
+    {
+      "date": "2024-10-13",
+      "observed": 6.85,
+      "predicted": 9.75,
+      "residual": -2.9
+    },
+    {
+      "date": "2024-10-14",
+      "observed": 7.77,
+      "predicted": 8.23,
+      "residual": -0.46
+    },
+    {
+      "date": "2024-10-15",
+      "observed": 7.35,
+      "predicted": 9.01,
+      "residual": -1.66
+    },
+    {
+      "date": "2024-10-16",
+      "observed": 6.6,
+      "predicted": 8.57,
+      "residual": -1.97
+    },
+    {
+      "date": "2024-10-17",
+      "observed": 8.1,
+      "predicted": 8.21,
+      "residual": -0.11
+    },
+    {
+      "date": "2024-10-18",
+      "observed": 10.35,
+      "predicted": 9.39,
+      "residual": 0.96
+    },
+    {
+      "date": "2024-10-19",
+      "observed": 9.6,
+      "predicted": 10.77,
+      "residual": -1.17
+    },
+    {
+      "date": "2024-10-20",
+      "observed": 10.93,
+      "predicted": 10.96,
+      "residual": -0.02
+    },
+    {
+      "date": "2024-10-21",
+      "observed": 12.15,
+      "predicted": 11.4,
+      "residual": 0.75
+    },
+    {
+      "date": "2024-10-22",
+      "observed": 14.7,
+      "predicted": 12.54,
+      "residual": 2.16
+    },
+    {
+      "date": "2024-10-23",
+      "observed": 13.55,
+      "predicted": 14.2,
+      "residual": -0.65
+    },
+    {
+      "date": "2024-10-24",
+      "observed": 12.15,
+      "predicted": 13.18,
+      "residual": -1.03
+    },
+    {
+      "date": "2024-10-25",
+      "observed": 22.25,
+      "predicted": 12.69,
+      "residual": 9.56
+    },
+    {
+      "date": "2024-10-26",
+      "observed": 14.6,
+      "predicted": 19.42,
+      "residual": -4.82
+    },
+    {
+      "date": "2024-10-27",
+      "observed": 7.65,
+      "predicted": 13.9,
+      "residual": -6.25
+    },
+    {
+      "date": "2024-10-28",
+      "observed": 9.1,
+      "predicted": 7.69,
+      "residual": 1.41
+    },
+    {
+      "date": "2024-10-29",
+      "observed": 8.55,
+      "predicted": 9.99,
+      "residual": -1.44
+    },
+    {
+      "date": "2024-10-30",
+      "observed": 11.05,
+      "predicted": 10.01,
+      "residual": 1.04
+    },
+    {
+      "date": "2024-10-31",
+      "observed": 13.1,
+      "predicted": 11.94,
+      "residual": 1.16
+    },
+    {
+      "date": "2024-11-01",
+      "observed": 8.47,
+      "predicted": 12.95,
+      "residual": -4.48
+    },
+    {
+      "date": "2024-11-02",
+      "observed": 8.2,
+      "predicted": 9.02,
+      "residual": -0.82
+    },
+    {
+      "date": "2024-11-03",
+      "observed": 6.95,
+      "predicted": 9.85,
+      "residual": -2.9
+    },
+    {
+      "date": "2024-11-04",
+      "observed": 7.7,
+      "predicted": 8.61,
+      "residual": -0.91
+    },
+    {
+      "date": "2024-11-05",
+      "observed": 9.1,
+      "predicted": 9.27,
+      "residual": -0.17
+    },
+    {
+      "date": "2024-11-06",
+      "observed": 5.25,
+      "predicted": 7.74,
+      "residual": -2.49
+    },
+    {
+      "date": "2024-11-07",
+      "observed": 9.13,
+      "predicted": 6.44,
+      "residual": 2.69
+    },
+    {
+      "date": "2024-11-08",
+      "observed": 14.35,
+      "predicted": 10.95,
+      "residual": 3.4
+    },
+    {
+      "date": "2024-11-09",
+      "observed": 19.0,
+      "predicted": 14.35,
+      "residual": 4.65
+    },
+    {
+      "date": "2024-11-10",
+      "observed": 16.8,
+      "predicted": 17.2,
+      "residual": -0.4
+    },
+    {
+      "date": "2024-11-11",
+      "observed": 8.75,
+      "predicted": 15.24,
+      "residual": -6.49
+    },
+    {
+      "date": "2024-11-12",
+      "observed": 10.5,
+      "predicted": 10.22,
+      "residual": 0.28
+    },
+    {
+      "date": "2024-11-13",
+      "observed": 12.43,
+      "predicted": 11.72,
+      "residual": 0.71
+    },
+    {
+      "date": "2024-11-14",
+      "observed": 8.9,
+      "predicted": 12.19,
+      "residual": -3.29
+    },
+    {
+      "date": "2024-11-15",
+      "observed": 9.1,
+      "predicted": 9.08,
+      "residual": 0.02
+    },
+    {
+      "date": "2024-11-16",
+      "observed": 8.4,
+      "predicted": 10.3,
+      "residual": -1.9
+    },
+    {
+      "date": "2024-11-17",
+      "observed": 11.1,
+      "predicted": 9.52,
+      "residual": 1.58
+    },
+    {
+      "date": "2024-11-18",
+      "observed": 13.75,
+      "predicted": 11.2,
+      "residual": 2.55
+    },
+    {
+      "date": "2024-11-19",
+      "observed": 13.83,
+      "predicted": 13.86,
+      "residual": -0.03
+    },
+    {
+      "date": "2024-11-20",
+      "observed": 14.4,
+      "predicted": 14.15,
+      "residual": 0.25
+    },
+    {
+      "date": "2024-11-21",
+      "observed": 18.5,
+      "predicted": 14.38,
+      "residual": 4.12
+    },
+    {
+      "date": "2024-11-22",
+      "observed": 12.3,
+      "predicted": 17.09,
+      "residual": -4.79
+    },
+    {
+      "date": "2024-11-23",
+      "observed": 5.7,
+      "predicted": 12.87,
+      "residual": -7.17
+    },
+    {
+      "date": "2024-11-24",
+      "observed": 15.05,
+      "predicted": 8.14,
+      "residual": 6.91
+    },
+    {
+      "date": "2024-11-25",
+      "observed": 9.3,
+      "predicted": 15.13,
+      "residual": -5.83
+    },
+    {
+      "date": "2024-11-26",
+      "observed": 9.9,
+      "predicted": 10.91,
+      "residual": -1.01
+    },
+    {
+      "date": "2024-11-27",
+      "observed": 5.1,
+      "predicted": 10.93,
+      "residual": -5.83
+    },
+    {
+      "date": "2024-11-28",
+      "observed": 4.6,
+      "predicted": 7.89,
+      "residual": -3.29
+    },
+    {
+      "date": "2024-11-29",
+      "observed": 9.7,
+      "predicted": 7.94,
+      "residual": 1.76
+    },
+    {
+      "date": "2024-11-30",
+      "observed": 13.1,
+      "predicted": 10.95,
+      "residual": 2.15
+    },
+    {
+      "date": "2024-12-01",
+      "observed": 21.45,
+      "predicted": 13.34,
+      "residual": 8.11
+    },
+    {
+      "date": "2024-12-02",
+      "observed": 22.7,
+      "predicted": 19.1,
+      "residual": 3.6
+    },
+    {
+      "date": "2024-12-03",
+      "observed": 29.7,
+      "predicted": 19.57,
+      "residual": 10.13
+    },
+    {
+      "date": "2024-12-04",
+      "observed": 44.1,
+      "predicted": 24.65,
+      "residual": 19.45
+    },
+    {
+      "date": "2024-12-05",
+      "observed": 33.45,
+      "predicted": 34.84,
+      "residual": -1.39
+    },
+    {
+      "date": "2024-12-06",
+      "observed": 27.25,
+      "predicted": 27.51,
+      "residual": -0.26
+    },
+    {
+      "date": "2024-12-07",
+      "observed": 15.2,
+      "predicted": 23.21,
+      "residual": -8.01
+    },
+    {
+      "date": "2024-12-08",
+      "observed": 19.2,
+      "predicted": 14.38,
+      "residual": 4.82
+    },
+    {
+      "date": "2024-12-09",
+      "observed": 2.15,
+      "predicted": 17.03,
+      "residual": -14.88
+    },
+    {
+      "date": "2024-12-10",
+      "observed": 9.3,
+      "predicted": 5.42,
+      "residual": 3.88
+    },
+    {
+      "date": "2024-12-11",
+      "observed": 10.35,
+      "predicted": 11.29,
+      "residual": -0.94
+    },
+    {
+      "date": "2024-12-12",
+      "observed": 12.7,
+      "predicted": 10.85,
+      "residual": 1.85
+    },
+    {
+      "date": "2024-12-13",
+      "observed": 15.93,
+      "predicted": 12.29,
+      "residual": 3.64
+    },
+    {
+      "date": "2024-12-14",
+      "observed": 17.65,
+      "predicted": 15.35,
+      "residual": 2.3
+    },
+    {
+      "date": "2024-12-15",
+      "observed": 15.3,
+      "predicted": 16.36,
+      "residual": -1.06
+    },
+    {
+      "date": "2024-12-16",
+      "observed": 15.8,
+      "predicted": 14.99,
+      "residual": 0.81
+    },
+    {
+      "date": "2024-12-17",
+      "observed": 10.5,
+      "predicted": 15.02,
+      "residual": -4.52
+    },
+    {
+      "date": "2024-12-18",
+      "observed": 13.95,
+      "predicted": 11.34,
+      "residual": 2.61
+    },
+    {
+      "date": "2024-12-19",
+      "observed": 25.77,
+      "predicted": 13.84,
+      "residual": 11.93
+    },
+    {
+      "date": "2024-12-20",
+      "observed": 27.6,
+      "predicted": 22.12,
+      "residual": 5.48
+    },
+    {
+      "date": "2024-12-21",
+      "observed": 26.25,
+      "predicted": 23.37,
+      "residual": 2.88
+    },
+    {
+      "date": "2024-12-22",
+      "observed": 18.45,
+      "predicted": 22.3,
+      "residual": -3.85
+    },
+    {
+      "date": "2024-12-23",
+      "observed": 20.15,
+      "predicted": 16.52,
+      "residual": 3.63
+    },
+    {
+      "date": "2024-12-24",
+      "observed": 11.35,
+      "predicted": 17.37,
+      "residual": -6.02
+    },
+    {
+      "date": "2024-12-25",
+      "observed": 13.8,
+      "predicted": 12.3,
+      "residual": 1.5
+    },
+    {
+      "date": "2024-12-26",
+      "observed": 11.45,
+      "predicted": 13.58,
+      "residual": -2.13
+    },
+    {
+      "date": "2024-12-27",
+      "observed": 26.0,
+      "predicted": 11.9,
+      "residual": 14.1
+    },
+    {
+      "date": "2024-12-28",
+      "observed": 42.75,
+      "predicted": 22.28,
+      "residual": 20.47
+    },
+    {
+      "date": "2024-12-29",
+      "observed": 25.2,
+      "predicted": 33.69,
+      "residual": -8.49
+    },
+    {
+      "date": "2024-12-30",
+      "observed": 46.05,
+      "predicted": 21.35,
+      "residual": 24.7
+    },
+    {
+      "date": "2024-12-31",
+      "observed": 53.4,
+      "predicted": 35.78,
+      "residual": 17.62
+    },
+    {
+      "date": "2025-01-01",
+      "observed": 33.35,
+      "predicted": 40.79,
+      "residual": -7.44
+    },
+    {
+      "date": "2025-01-02",
+      "observed": 24.05,
+      "predicted": 27.29,
+      "residual": -3.24
+    },
+    {
+      "date": "2025-01-03",
+      "observed": 22.65,
+      "predicted": 20.49,
+      "residual": 2.16
+    },
+    {
+      "date": "2025-01-04",
+      "observed": 19.7,
+      "predicted": 19.84,
+      "residual": -0.14
+    },
+    {
+      "date": "2025-01-05",
+      "observed": 12.45,
+      "predicted": 17.99,
+      "residual": -5.54
+    },
+    {
+      "date": "2025-01-06",
+      "observed": 9.4,
+      "predicted": 12.74,
+      "residual": -3.34
+    },
+    {
+      "date": "2025-01-07",
+      "observed": 11.4,
+      "predicted": 6.32,
+      "residual": 5.08
+    },
+    {
+      "date": "2025-01-08",
+      "observed": 19.8,
+      "predicted": 6.67,
+      "residual": 13.13
+    },
+    {
+      "date": "2025-01-09",
+      "observed": 11.45,
+      "predicted": 16.97,
+      "residual": -5.52
+    },
+    {
+      "date": "2025-01-10",
+      "observed": 13.9,
+      "predicted": 11.44,
+      "residual": 2.46
+    },
+    {
+      "date": "2025-01-11",
+      "observed": 1.85,
+      "predicted": 12.95,
+      "residual": -11.1
+    },
+    {
+      "date": "2025-01-12",
+      "observed": 2.07,
+      "predicted": 3.04,
+      "residual": -0.97
+    },
+    {
+      "date": "2025-01-13",
+      "observed": 5.9,
+      "predicted": 2.8,
+      "residual": 3.1
+    },
+    {
+      "date": "2025-01-14",
+      "observed": 6.35,
+      "predicted": 7.27,
+      "residual": -0.92
+    },
+    {
+      "date": "2025-01-15",
+      "observed": 7.65,
+      "predicted": 7.81,
+      "residual": -0.16
+    },
+    {
+      "date": "2025-01-16",
+      "observed": 8.5,
+      "predicted": 8.77,
+      "residual": -0.27
+    },
+    {
+      "date": "2025-01-17",
+      "observed": 13.35,
+      "predicted": 9.04,
+      "residual": 4.31
+    },
+    {
+      "date": "2025-01-18",
+      "observed": 22.43,
+      "predicted": 13.59,
+      "residual": 8.85
+    },
+    {
+      "date": "2025-01-19",
+      "observed": 12.45,
+      "predicted": 19.77,
+      "residual": -7.32
+    },
+    {
+      "date": "2025-01-20",
+      "observed": 3.75,
+      "predicted": 10.1,
+      "residual": -6.35
+    },
+    {
+      "date": "2025-01-21",
+      "observed": 4.65,
+      "predicted": 6.35,
+      "residual": -1.7
+    },
+    {
+      "date": "2025-01-22",
+      "observed": 2.85,
+      "predicted": 6.34,
+      "residual": -3.49
+    },
+    {
+      "date": "2025-01-23",
+      "observed": 6.3,
+      "predicted": 4.65,
+      "residual": 1.65
+    },
+    {
+      "date": "2025-01-24",
+      "observed": 9.2,
+      "predicted": 8.71,
+      "residual": 0.49
+    },
+    {
+      "date": "2025-01-25",
+      "observed": 3.8,
+      "predicted": 8.7,
+      "residual": -4.9
+    },
+    {
+      "date": "2025-01-26",
+      "observed": 5.7,
+      "predicted": 5.54,
+      "residual": 0.16
+    },
+    {
+      "date": "2025-01-27",
+      "observed": 9.2,
+      "predicted": 7.99,
+      "residual": 1.21
+    },
+    {
+      "date": "2025-01-28",
+      "observed": 12.5,
+      "predicted": 9.91,
+      "residual": 2.59
+    },
+    {
+      "date": "2025-01-29",
+      "observed": 11.2,
+      "predicted": 12.31,
+      "residual": -1.11
+    },
+    {
+      "date": "2025-01-30",
+      "observed": 20.03,
+      "predicted": 12.2,
+      "residual": 7.83
+    },
+    {
+      "date": "2025-01-31",
+      "observed": 24.4,
+      "predicted": 18.29,
+      "residual": 6.11
+    },
+    {
+      "date": "2025-02-01",
+      "observed": 27.25,
+      "predicted": 21.04,
+      "residual": 6.21
+    },
+    {
+      "date": "2025-02-02",
+      "observed": 21.45,
+      "predicted": 22.9,
+      "residual": -1.45
+    },
+    {
+      "date": "2025-02-03",
+      "observed": 6.25,
+      "predicted": 18.87,
+      "residual": -12.62
+    },
+    {
+      "date": "2025-02-04",
+      "observed": 5.75,
+      "predicted": 7.51,
+      "residual": -1.76
+    },
+    {
+      "date": "2025-02-05",
+      "observed": 3.1,
+      "predicted": 7.47,
+      "residual": -4.37
+    },
+    {
+      "date": "2025-02-06",
+      "observed": 3.6,
+      "predicted": 4.82,
+      "residual": -1.22
+    },
+    {
+      "date": "2025-02-07",
+      "observed": 10.1,
+      "predicted": 5.31,
+      "residual": 4.79
+    },
+    {
+      "date": "2025-02-08",
+      "observed": 14.65,
+      "predicted": 11.37,
+      "residual": 3.28
+    },
+    {
+      "date": "2025-02-09",
+      "observed": 7.2,
+      "predicted": 14.24,
+      "residual": -7.04
+    },
+    {
+      "date": "2025-02-10",
+      "observed": 7.5,
+      "predicted": 8.08,
+      "residual": -0.58
+    },
+    {
+      "date": "2025-02-11",
+      "observed": 4.7,
+      "predicted": 8.28,
+      "residual": -3.58
+    },
+    {
+      "date": "2025-02-12",
+      "observed": 1.95,
+      "predicted": 6.14,
+      "residual": -4.19
+    },
+    {
+      "date": "2025-02-13",
+      "observed": 5.5,
+      "predicted": 2.0,
+      "residual": 3.5
+    },
+    {
+      "date": "2025-02-14",
+      "observed": 9.3,
+      "predicted": 6.29,
+      "residual": 3.01
+    },
+    {
+      "date": "2025-02-15",
+      "observed": 10.7,
+      "predicted": 10.21,
+      "residual": 0.49
+    },
+    {
+      "date": "2025-02-16",
+      "observed": 10.05,
+      "predicted": 11.86,
+      "residual": -1.81
+    },
+    {
+      "date": "2025-02-17",
+      "observed": 9.63,
+      "predicted": 10.64,
+      "residual": -1.01
+    },
+    {
+      "date": "2025-02-18",
+      "observed": 14.3,
+      "predicted": 10.36,
+      "residual": 3.94
+    },
+    {
+      "date": "2025-02-19",
+      "observed": 13.75,
+      "predicted": 13.69,
+      "residual": 0.06
+    },
+    {
+      "date": "2025-02-20",
+      "observed": 13.9,
+      "predicted": 13.7,
+      "residual": 0.2
+    },
+    {
+      "date": "2025-02-21",
+      "observed": 15.75,
+      "predicted": 13.34,
+      "residual": 2.41
+    },
+    {
+      "date": "2025-02-22",
+      "observed": 11.7,
+      "predicted": 14.91,
+      "residual": -3.21
+    },
+    {
+      "date": "2025-02-23",
+      "observed": 12.87,
+      "predicted": 12.23,
+      "residual": 0.64
+    },
+    {
+      "date": "2025-02-24",
+      "observed": 9.45,
+      "predicted": 12.95,
+      "residual": -3.5
+    },
+    {
+      "date": "2025-02-25",
+      "observed": 13.2,
+      "predicted": 10.47,
+      "residual": 2.73
+    },
+    {
+      "date": "2025-02-26",
+      "observed": 8.45,
+      "predicted": 13.02,
+      "residual": -4.57
+    },
+    {
+      "date": "2025-02-27",
+      "observed": 8.35,
+      "predicted": 10.02,
+      "residual": -1.67
+    },
+    {
+      "date": "2025-02-28",
+      "observed": 5.45,
+      "predicted": 9.02,
+      "residual": -3.57
+    },
+    {
+      "date": "2025-03-01",
+      "observed": 5.47,
+      "predicted": 6.65,
+      "residual": -1.19
+    },
+    {
+      "date": "2025-03-02",
+      "observed": 5.75,
+      "predicted": 6.36,
+      "residual": -0.61
+    },
+    {
+      "date": "2025-03-03",
+      "observed": 7.45,
+      "predicted": 7.09,
+      "residual": 0.36
+    },
+    {
+      "date": "2025-03-04",
+      "observed": 9.05,
+      "predicted": 8.33,
+      "residual": 0.72
+    },
+    {
+      "date": "2025-03-05",
+      "observed": 3.95,
+      "predicted": 9.95,
+      "residual": -6.0
+    },
+    {
+      "date": "2025-03-06",
+      "observed": 5.95,
+      "predicted": 5.33,
+      "residual": 0.62
+    },
+    {
+      "date": "2025-03-07",
+      "observed": 9.7,
+      "predicted": 7.26,
+      "residual": 2.44
+    },
+    {
+      "date": "2025-03-08",
+      "observed": 10.1,
+      "predicted": 10.56,
+      "residual": -0.46
+    },
+    {
+      "date": "2025-03-09",
+      "observed": 7.0,
+      "predicted": 10.91,
+      "residual": -3.91
+    },
+    {
+      "date": "2025-03-10",
+      "observed": 4.25,
+      "predicted": 8.49,
+      "residual": -4.24
+    },
+    {
+      "date": "2025-03-11",
+      "observed": 2.3,
+      "predicted": 6.2,
+      "residual": -3.9
+    },
+    {
+      "date": "2025-03-12",
+      "observed": 2.95,
+      "predicted": 3.41,
+      "residual": -0.46
+    },
+    {
+      "date": "2025-03-13",
+      "observed": 5.1,
+      "predicted": 3.85,
+      "residual": 1.25
+    },
+    {
+      "date": "2025-03-14",
+      "observed": 9.5,
+      "predicted": 7.21,
+      "residual": 2.29
+    },
+    {
+      "date": "2025-03-15",
+      "observed": 10.95,
+      "predicted": 10.4,
+      "residual": 0.55
+    },
+    {
+      "date": "2025-03-16",
+      "observed": 11.4,
+      "predicted": 11.41,
+      "residual": -0.01
+    },
+    {
+      "date": "2025-03-17",
+      "observed": 5.95,
+      "predicted": 10.94,
+      "residual": -4.99
+    },
+    {
+      "date": "2025-03-18",
+      "observed": 5.8,
+      "predicted": 7.93,
+      "residual": -2.13
+    },
+    {
+      "date": "2025-03-19",
+      "observed": 8.1,
+      "predicted": 8.29,
+      "residual": -0.19
+    },
+    {
+      "date": "2025-03-20",
+      "observed": 9.6,
+      "predicted": 9.08,
+      "residual": 0.52
+    },
+    {
+      "date": "2025-03-21",
+      "observed": 9.15,
+      "predicted": 10.33,
+      "residual": -1.18
+    },
+    {
+      "date": "2025-03-22",
+      "observed": 12.6,
+      "predicted": 9.8,
+      "residual": 2.8
+    },
+    {
+      "date": "2025-03-23",
+      "observed": 14.75,
+      "predicted": 12.3,
+      "residual": 2.45
+    },
+    {
+      "date": "2025-03-24",
+      "observed": 15.3,
+      "predicted": 13.61,
+      "residual": 1.69
+    },
+    {
+      "date": "2025-03-25",
+      "observed": 5.27,
+      "predicted": 14.06,
+      "residual": -8.79
+    },
+    {
+      "date": "2025-03-26",
+      "observed": 4.0,
+      "predicted": 7.62,
+      "residual": -3.62
+    },
+    {
+      "date": "2025-03-27",
+      "observed": 7.25,
+      "predicted": 6.68,
+      "residual": 0.57
+    },
+    {
+      "date": "2025-03-28",
+      "observed": 7.15,
+      "predicted": 7.57,
+      "residual": -0.42
+    },
+    {
+      "date": "2025-03-29",
+      "observed": 6.15,
+      "predicted": 7.58,
+      "residual": -1.43
+    },
+    {
+      "date": "2025-03-30",
+      "observed": 2.8,
+      "predicted": 7.75,
+      "residual": -4.95
+    },
+    {
+      "date": "2025-03-31",
+      "observed": 5.77,
+      "predicted": 4.83,
+      "residual": 0.93
+    },
+    {
+      "date": "2025-04-01",
+      "observed": 5.35,
+      "predicted": 5.63,
+      "residual": -0.28
+    },
+    {
+      "date": "2025-04-02",
+      "observed": 6.95,
+      "predicted": 6.12,
+      "residual": 0.83
+    },
+    {
+      "date": "2025-04-04",
+      "observed": 6.4,
+      "predicted": 8.51,
+      "residual": -2.11
+    },
+    {
+      "date": "2025-04-05",
+      "observed": 7.1,
+      "predicted": 6.99,
+      "residual": 0.11
+    },
+    {
+      "date": "2025-04-06",
+      "observed": 9.1,
+      "predicted": 8.48,
+      "residual": 0.62
+    },
+    {
+      "date": "2025-04-08",
+      "observed": 11.1,
+      "predicted": 10.34,
+      "residual": 0.76
+    },
+    {
+      "date": "2025-04-09",
+      "observed": 12.8,
+      "predicted": 10.74,
+      "residual": 2.06
+    },
+    {
+      "date": "2025-04-10",
+      "observed": 10.9,
+      "predicted": 12.13,
+      "residual": -1.23
+    },
+    {
+      "date": "2025-04-11",
+      "observed": 10.35,
+      "predicted": 10.6,
+      "residual": -0.25
+    },
+    {
+      "date": "2025-04-12",
+      "observed": 9.93,
+      "predicted": 10.22,
+      "residual": -0.29
+    },
+    {
+      "date": "2025-04-13",
+      "observed": 11.3,
+      "predicted": 10.1,
+      "residual": 1.2
+    },
+    {
+      "date": "2025-04-14",
+      "observed": 9.5,
+      "predicted": 10.25,
+      "residual": -0.75
+    },
+    {
+      "date": "2025-04-15",
+      "observed": 7.45,
+      "predicted": 9.72,
+      "residual": -2.27
+    },
+    {
+      "date": "2025-04-16",
+      "observed": 5.65,
+      "predicted": 8.02,
+      "residual": -2.37
+    },
+    {
+      "date": "2025-04-17",
+      "observed": 5.8,
+      "predicted": 6.95,
+      "residual": -1.15
+    },
+    {
+      "date": "2025-04-18",
+      "observed": 8.5,
+      "predicted": 7.51,
+      "residual": 0.99
+    },
+    {
+      "date": "2025-04-19",
+      "observed": 10.3,
+      "predicted": 9.35,
+      "residual": 0.95
+    },
+    {
+      "date": "2025-04-20",
+      "observed": 11.6,
+      "predicted": 10.58,
+      "residual": 1.02
+    },
+    {
+      "date": "2025-04-21",
+      "observed": 10.05,
+      "predicted": 11.77,
+      "residual": -1.72
+    },
+    {
+      "date": "2025-04-22",
+      "observed": 7.8,
+      "predicted": 10.25,
+      "residual": -2.45
+    },
+    {
+      "date": "2025-04-23",
+      "observed": 8.9,
+      "predicted": 8.72,
+      "residual": 0.18
+    },
+    {
+      "date": "2025-04-24",
+      "observed": 6.13,
+      "predicted": 9.55,
+      "residual": -3.41
+    },
+    {
+      "date": "2025-04-25",
+      "observed": 3.25,
+      "predicted": 6.81,
+      "residual": -3.56
+    },
+    {
+      "date": "2025-04-26",
+      "observed": 3.6,
+      "predicted": 5.36,
+      "residual": -1.76
+    },
+    {
+      "date": "2025-04-27",
+      "observed": 6.15,
+      "predicted": 6.09,
+      "residual": 0.06
+    },
+    {
+      "date": "2025-04-28",
+      "observed": 8.9,
+      "predicted": 7.98,
+      "residual": 0.92
+    },
+    {
+      "date": "2025-04-29",
+      "observed": 8.1,
+      "predicted": 9.62,
+      "residual": -1.52
+    },
+    {
+      "date": "2025-04-30",
+      "observed": 7.13,
+      "predicted": 8.77,
+      "residual": -1.64
+    },
+    {
+      "date": "2025-05-01",
+      "observed": 8.2,
+      "predicted": 8.19,
+      "residual": 0.01
+    },
+    {
+      "date": "2025-05-02",
+      "observed": 5.3,
+      "predicted": 9.3,
+      "residual": -4.0
+    },
+    {
+      "date": "2025-05-03",
+      "observed": 7.5,
+      "predicted": 7.1,
+      "residual": 0.4
+    },
+    {
+      "date": "2025-05-04",
+      "observed": 6.65,
+      "predicted": 7.43,
+      "residual": -0.78
+    },
+    {
+      "date": "2025-05-05",
+      "observed": 7.45,
+      "predicted": 7.47,
+      "residual": -0.02
+    },
+    {
+      "date": "2025-05-06",
+      "observed": 9.57,
+      "predicted": 8.33,
+      "residual": 1.24
+    },
+    {
+      "date": "2025-05-07",
+      "observed": 14.5,
+      "predicted": 10.23,
+      "residual": 4.27
+    },
+    {
+      "date": "2025-05-08",
+      "observed": 12.85,
+      "predicted": 13.83,
+      "residual": -0.98
+    },
+    {
+      "date": "2025-05-09",
+      "observed": 12.1,
+      "predicted": 12.08,
+      "residual": 0.02
+    },
+    {
+      "date": "2025-05-10",
+      "observed": 15.5,
+      "predicted": 11.73,
+      "residual": 3.77
+    },
+    {
+      "date": "2025-05-11",
+      "observed": 9.8,
+      "predicted": 13.89,
+      "residual": -4.09
+    },
+    {
+      "date": "2025-05-12",
+      "observed": 4.85,
+      "predicted": 9.0,
+      "residual": -4.15
+    },
+    {
+      "date": "2025-05-13",
+      "observed": 7.8,
+      "predicted": 6.01,
+      "residual": 1.79
+    },
+    {
+      "date": "2025-05-14",
+      "observed": 11.1,
+      "predicted": 8.18,
+      "residual": 2.92
+    },
+    {
+      "date": "2025-05-15",
+      "observed": 10.7,
+      "predicted": 10.81,
+      "residual": -0.11
+    },
+    {
+      "date": "2025-05-16",
+      "observed": 8.0,
+      "predicted": 9.69,
+      "residual": -1.69
+    },
+    {
+      "date": "2025-05-17",
+      "observed": 6.3,
+      "predicted": 7.85,
+      "residual": -1.55
+    },
+    {
+      "date": "2025-05-18",
+      "observed": 11.35,
+      "predicted": 7.16,
+      "residual": 4.19
+    },
+    {
+      "date": "2025-05-19",
+      "observed": 13.1,
+      "predicted": 11.22,
+      "residual": 1.88
+    },
+    {
+      "date": "2025-05-20",
+      "observed": 13.7,
+      "predicted": 12.49,
+      "residual": 1.21
+    },
+    {
+      "date": "2025-05-21",
+      "observed": 12.8,
+      "predicted": 12.35,
+      "residual": 0.45
+    },
+    {
+      "date": "2025-05-22",
+      "observed": 13.8,
+      "predicted": 11.35,
+      "residual": 2.45
+    },
+    {
+      "date": "2025-05-23",
+      "observed": 9.8,
+      "predicted": 12.42,
+      "residual": -2.62
+    },
+    {
+      "date": "2025-05-24",
+      "observed": 9.5,
+      "predicted": 9.0,
+      "residual": 0.5
+    },
+    {
+      "date": "2025-05-25",
+      "observed": 11.1,
+      "predicted": 9.26,
+      "residual": 1.84
+    },
+    {
+      "date": "2025-05-26",
+      "observed": 8.5,
+      "predicted": 10.74,
+      "residual": -2.24
+    },
+    {
+      "date": "2025-05-29",
+      "observed": 10.2,
+      "predicted": 7.96,
+      "residual": 2.24
+    },
+    {
+      "date": "2025-05-30",
+      "observed": 12.25,
+      "predicted": 9.81,
+      "residual": 2.44
+    },
+    {
+      "date": "2025-05-31",
+      "observed": 7.0,
+      "predicted": 11.36,
+      "residual": -4.36
+    },
+    {
+      "date": "2025-06-01",
+      "observed": 6.5,
+      "predicted": 8.02,
+      "residual": -1.52
+    },
+    {
+      "date": "2025-06-02",
+      "observed": 6.1,
+      "predicted": 7.52,
+      "residual": -1.42
+    },
+    {
+      "date": "2025-06-03",
+      "observed": 7.3,
+      "predicted": 7.87,
+      "residual": -0.57
+    },
+    {
+      "date": "2025-06-04",
+      "observed": 5.0,
+      "predicted": 8.54,
+      "residual": -3.54
+    },
+    {
+      "date": "2025-06-05",
+      "observed": 8.9,
+      "predicted": 6.81,
+      "residual": 2.09
+    },
+    {
+      "date": "2025-06-06",
+      "observed": 9.7,
+      "predicted": 9.39,
+      "residual": 0.31
+    },
+    {
+      "date": "2025-06-07",
+      "observed": 9.8,
+      "predicted": 10.48,
+      "residual": -0.68
+    },
+    {
+      "date": "2025-06-08",
+      "observed": 7.8,
+      "predicted": 10.32,
+      "residual": -2.52
+    },
+    {
+      "date": "2025-06-09",
+      "observed": 7.8,
+      "predicted": 8.1,
+      "residual": -0.3
+    },
+    {
+      "date": "2025-06-10",
+      "observed": 8.3,
+      "predicted": 8.64,
+      "residual": -0.34
+    },
+    {
+      "date": "2025-06-11",
+      "observed": 8.5,
+      "predicted": 8.83,
+      "residual": -0.33
+    },
+    {
+      "date": "2025-06-12",
+      "observed": 11.0,
+      "predicted": 8.58,
+      "residual": 2.42
+    },
+    {
+      "date": "2025-06-13",
+      "observed": 12.2,
+      "predicted": 10.51,
+      "residual": 1.69
+    },
+    {
+      "date": "2025-06-14",
+      "observed": 14.65,
+      "predicted": 11.79,
+      "residual": 2.86
+    },
+    {
+      "date": "2025-06-15",
+      "observed": 17.3,
+      "predicted": 13.23,
+      "residual": 4.07
+    },
+    {
+      "date": "2025-06-16",
+      "observed": 15.9,
+      "predicted": 14.73,
+      "residual": 1.17
+    },
+    {
+      "date": "2025-06-17",
+      "observed": 15.0,
+      "predicted": 13.85,
+      "residual": 1.15
+    },
+    {
+      "date": "2025-06-18",
+      "observed": 12.45,
+      "predicted": 12.77,
+      "residual": -0.32
+    },
+    {
+      "date": "2025-06-19",
+      "observed": 11.95,
+      "predicted": 11.34,
+      "residual": 0.61
+    },
+    {
+      "date": "2025-06-20",
+      "observed": 12.55,
+      "predicted": 10.77,
+      "residual": 1.78
+    },
+    {
+      "date": "2025-06-21",
+      "observed": 12.75,
+      "predicted": 10.64,
+      "residual": 2.11
+    },
+    {
+      "date": "2025-06-22",
+      "observed": 13.15,
+      "predicted": 11.86,
+      "residual": 1.29
+    },
+    {
+      "date": "2025-06-23",
+      "observed": 12.07,
+      "predicted": 10.89,
+      "residual": 1.18
+    },
+    {
+      "date": "2025-06-24",
+      "observed": 11.55,
+      "predicted": 11.63,
+      "residual": -0.08
+    },
+    {
+      "date": "2025-06-26",
+      "observed": 10.15,
+      "predicted": 10.84,
+      "residual": -0.69
+    },
+    {
+      "date": "2025-06-27",
+      "observed": 12.05,
+      "predicted": 9.55,
+      "residual": 2.5
+    },
+    {
+      "date": "2025-06-28",
+      "observed": 11.75,
+      "predicted": 11.62,
+      "residual": 0.13
+    },
+    {
+      "date": "2025-06-29",
+      "observed": 8.93,
+      "predicted": 11.33,
+      "residual": -2.4
+    },
+    {
+      "date": "2025-06-30",
+      "observed": 11.5,
+      "predicted": 9.73,
+      "residual": 1.77
+    },
+    {
+      "date": "2025-07-01",
+      "observed": 9.2,
+      "predicted": 11.32,
+      "residual": -2.12
+    },
+    {
+      "date": "2025-07-02",
+      "observed": 7.5,
+      "predicted": 9.44,
+      "residual": -1.94
+    },
+    {
+      "date": "2025-07-03",
+      "observed": 48.6,
+      "predicted": 7.66,
+      "residual": 40.94
+    },
+    {
+      "date": "2025-07-04",
+      "observed": 18.8,
+      "predicted": 36.2,
+      "residual": -17.4
+    },
+    {
+      "date": "2025-07-05",
+      "observed": 13.5,
+      "predicted": 16.06,
+      "residual": -2.56
+    },
+    {
+      "date": "2025-07-06",
+      "observed": 14.2,
+      "predicted": 12.45,
+      "residual": 1.75
+    },
+    {
+      "date": "2025-07-07",
+      "observed": 10.5,
+      "predicted": 13.0,
+      "residual": -2.5
+    },
+    {
+      "date": "2025-07-08",
+      "observed": 9.2,
+      "predicted": 10.64,
+      "residual": -1.44
+    },
+    {
+      "date": "2025-07-09",
+      "observed": 10.8,
+      "predicted": 9.29,
+      "residual": 1.51
+    },
+    {
+      "date": "2025-07-10",
+      "observed": 11.5,
+      "predicted": 10.3,
+      "residual": 1.2
+    },
+    {
+      "date": "2025-07-11",
+      "observed": 10.5,
+      "predicted": 9.92,
+      "residual": 0.58
+    },
+    {
+      "date": "2025-07-12",
+      "observed": 10.5,
+      "predicted": 9.94,
+      "residual": 0.56
+    },
+    {
+      "date": "2025-07-13",
+      "observed": 6.4,
+      "predicted": 10.56,
+      "residual": -4.16
+    },
+    {
+      "date": "2025-07-14",
+      "observed": 4.2,
+      "predicted": 7.53,
+      "residual": -3.33
+    },
+    {
+      "date": "2025-07-15",
+      "observed": 4.7,
+      "predicted": 5.49,
+      "residual": -0.79
+    },
+    {
+      "date": "2025-07-16",
+      "observed": 5.7,
+      "predicted": 6.45,
+      "residual": -0.75
+    },
+    {
+      "date": "2025-07-17",
+      "observed": 7.9,
+      "predicted": 7.21,
+      "residual": 0.69
+    },
+    {
+      "date": "2025-07-18",
+      "observed": 8.0,
+      "predicted": 8.56,
+      "residual": -0.56
+    },
+    {
+      "date": "2025-07-19",
+      "observed": 7.8,
+      "predicted": 8.0,
+      "residual": -0.2
+    },
+    {
+      "date": "2025-07-20",
+      "observed": 6.6,
+      "predicted": 8.25,
+      "residual": -1.65
+    },
+    {
+      "date": "2025-07-21",
+      "observed": 5.7,
+      "predicted": 7.75,
+      "residual": -2.05
+    },
+    {
+      "date": "2025-07-22",
+      "observed": 10.0,
+      "predicted": 7.06,
+      "residual": 2.94
+    },
+    {
+      "date": "2025-07-23",
+      "observed": 5.6,
+      "predicted": 10.3,
+      "residual": -4.7
+    },
+    {
+      "date": "2025-07-24",
+      "observed": 4.6,
+      "predicted": 7.07,
+      "residual": -2.47
+    },
+    {
+      "date": "2025-07-25",
+      "observed": 5.2,
+      "predicted": 6.46,
+      "residual": -1.26
+    },
+    {
+      "date": "2025-07-26",
+      "observed": 7.5,
+      "predicted": 6.79,
+      "residual": 0.71
+    },
+    {
+      "date": "2025-07-27",
+      "observed": 7.5,
+      "predicted": 8.67,
+      "residual": -1.17
+    },
+    {
+      "date": "2025-07-28",
+      "observed": 11.0,
+      "predicted": 8.59,
+      "residual": 2.41
+    },
+    {
+      "date": "2025-07-29",
+      "observed": 11.7,
+      "predicted": 11.13,
+      "residual": 0.57
+    },
+    {
+      "date": "2025-07-30",
+      "observed": 10.3,
+      "predicted": 11.07,
+      "residual": -0.77
+    },
+    {
+      "date": "2025-08-06",
+      "observed": 14.5,
+      "predicted": 15.22,
+      "residual": -0.72
+    },
+    {
+      "date": "2025-08-07",
+      "observed": 8.5,
+      "predicted": 13.52,
+      "residual": -5.02
+    },
+    {
+      "date": "2025-08-08",
+      "observed": 10.1,
+      "predicted": 8.5,
+      "residual": 1.6
+    },
+    {
+      "date": "2025-08-09",
+      "observed": 9.3,
+      "predicted": 10.21,
+      "residual": -0.91
+    },
+    {
+      "date": "2025-08-10",
+      "observed": 8.7,
+      "predicted": 9.74,
+      "residual": -1.04
+    },
+    {
+      "date": "2025-08-11",
+      "observed": 9.9,
+      "predicted": 8.56,
+      "residual": 1.34
+    },
+    {
+      "date": "2025-08-12",
+      "observed": 10.4,
+      "predicted": 9.76,
+      "residual": 0.64
+    },
+    {
+      "date": "2025-08-13",
+      "observed": 9.6,
+      "predicted": 10.26,
+      "residual": -0.66
+    },
+    {
+      "date": "2025-08-14",
+      "observed": 7.2,
+      "predicted": 9.71,
+      "residual": -2.51
+    },
+    {
+      "date": "2025-08-15",
+      "observed": 5.6,
+      "predicted": 7.15,
+      "residual": -1.55
+    },
+    {
+      "date": "2025-08-16",
+      "observed": 7.4,
+      "predicted": 6.99,
+      "residual": 0.41
+    },
+    {
+      "date": "2025-08-17",
+      "observed": 9.3,
+      "predicted": 8.37,
+      "residual": 0.93
+    },
+    {
+      "date": "2025-08-18",
+      "observed": 7.5,
+      "predicted": 9.28,
+      "residual": -1.78
+    },
+    {
+      "date": "2025-08-19",
+      "observed": 8.5,
+      "predicted": 8.67,
+      "residual": -0.17
+    },
+    {
+      "date": "2025-08-20",
+      "observed": 8.9,
+      "predicted": 9.12,
+      "residual": -0.22
+    },
+    {
+      "date": "2025-08-21",
+      "observed": 10.5,
+      "predicted": 9.31,
+      "residual": 1.19
+    },
+    {
+      "date": "2025-08-22",
+      "observed": 11.6,
+      "predicted": 10.4,
+      "residual": 1.2
+    },
+    {
+      "date": "2025-08-23",
+      "observed": 9.4,
+      "predicted": 10.92,
+      "residual": -1.52
+    },
+    {
+      "date": "2025-08-24",
+      "observed": 9.2,
+      "predicted": 9.89,
+      "residual": -0.69
+    },
+    {
+      "date": "2025-08-25",
+      "observed": 8.7,
+      "predicted": 9.36,
+      "residual": -0.66
+    },
+    {
+      "date": "2025-08-26",
+      "observed": 9.1,
+      "predicted": 9.1,
+      "residual": -0.0
+    },
+    {
+      "date": "2025-08-27",
+      "observed": 9.2,
+      "predicted": 10.07,
+      "residual": -0.87
+    },
+    {
+      "date": "2025-08-28",
+      "observed": 10.5,
+      "predicted": 10.29,
+      "residual": 0.21
+    },
+    {
+      "date": "2025-08-29",
+      "observed": 10.1,
+      "predicted": 11.1,
+      "residual": -1.0
+    },
+    {
+      "date": "2025-08-30",
+      "observed": 10.2,
+      "predicted": 10.36,
+      "residual": -0.16
+    },
+    {
+      "date": "2025-08-31",
+      "observed": 9.7,
+      "predicted": 10.51,
+      "residual": -0.81
+    },
+    {
+      "date": "2025-09-01",
+      "observed": 11.9,
+      "predicted": 10.25,
+      "residual": 1.65
+    },
+    {
+      "date": "2025-09-02",
+      "observed": 8.3,
+      "predicted": 11.75,
+      "residual": -3.45
+    },
+    {
+      "date": "2025-09-03",
+      "observed": 7.8,
+      "predicted": 9.14,
+      "residual": -1.34
+    },
+    {
+      "date": "2025-09-04",
+      "observed": 9.0,
+      "predicted": 8.64,
+      "residual": 0.36
+    },
+    {
+      "date": "2025-09-05",
+      "observed": 8.6,
+      "predicted": 9.77,
+      "residual": -1.17
+    },
+    {
+      "date": "2025-09-06",
+      "observed": 7.6,
+      "predicted": 9.34,
+      "residual": -1.74
+    },
+    {
+      "date": "2025-09-07",
+      "observed": 4.6,
+      "predicted": 8.74,
+      "residual": -4.14
+    },
+    {
+      "date": "2025-09-08",
+      "observed": 4.3,
+      "predicted": 6.54,
+      "residual": -2.24
+    },
+    {
+      "date": "2025-09-09",
+      "observed": 3.0,
+      "predicted": 6.03,
+      "residual": -3.03
+    },
+    {
+      "date": "2025-09-10",
+      "observed": 3.0,
+      "predicted": 5.06,
+      "residual": -2.06
+    },
+    {
+      "date": "2025-09-11",
+      "observed": 4.4,
+      "predicted": 5.68,
+      "residual": -1.28
+    },
+    {
+      "date": "2025-09-12",
+      "observed": 7.4,
+      "predicted": 5.78,
+      "residual": 1.62
+    },
+    {
+      "date": "2025-09-13",
+      "observed": 11.8,
+      "predicted": 8.68,
+      "residual": 3.12
+    },
+    {
+      "date": "2025-09-14",
+      "observed": 13.0,
+      "predicted": 11.91,
+      "residual": 1.09
+    },
+    {
+      "date": "2025-09-15",
+      "observed": 15.4,
+      "predicted": 12.5,
+      "residual": 2.9
+    },
+    {
+      "date": "2025-09-16",
+      "observed": 6.6,
+      "predicted": 14.6,
+      "residual": -8.0
+    },
+    {
+      "date": "2025-09-17",
+      "observed": 7.4,
+      "predicted": 8.14,
+      "residual": -0.74
+    },
+    {
+      "date": "2025-09-18",
+      "observed": 4.3,
+      "predicted": 8.53,
+      "residual": -4.23
+    },
+    {
+      "date": "2025-09-19",
+      "observed": 9.5,
+      "predicted": 6.65,
+      "residual": 2.85
+    },
+    {
+      "date": "2025-09-20",
+      "observed": 9.7,
+      "predicted": 10.19,
+      "residual": -0.49
+    },
+    {
+      "date": "2025-09-21",
+      "observed": 8.8,
+      "predicted": 11.33,
+      "residual": -2.53
+    },
+    {
+      "date": "2025-09-22",
+      "observed": 10.0,
+      "predicted": 9.87,
+      "residual": 0.13
+    },
+    {
+      "date": "2025-09-23",
+      "observed": 8.2,
+      "predicted": 10.37,
+      "residual": -2.17
+    },
+    {
+      "date": "2025-09-24",
+      "observed": 7.4,
+      "predicted": 9.23,
+      "residual": -1.83
+    },
+    {
+      "date": "2025-09-25",
+      "observed": 2.55,
+      "predicted": 8.68,
+      "residual": -6.13
+    },
+    {
+      "date": "2025-09-26",
+      "observed": 3.5,
+      "predicted": 3.83,
+      "residual": -0.33
+    },
+    {
+      "date": "2025-09-27",
+      "observed": 4.45,
+      "predicted": 5.71,
+      "residual": -1.26
+    },
+    {
+      "date": "2025-09-28",
+      "observed": 5.1,
+      "predicted": 6.67,
+      "residual": -1.57
+    },
+    {
+      "date": "2025-09-29",
+      "observed": 7.4,
+      "predicted": 7.35,
+      "residual": 0.05
+    },
+    {
+      "date": "2025-09-30",
+      "observed": 4.7,
+      "predicted": 8.91,
+      "residual": -4.21
+    },
+    {
+      "date": "2025-10-01",
+      "observed": 3.05,
+      "predicted": 7.23,
+      "residual": -4.18
+    },
+    {
+      "date": "2025-10-02",
+      "observed": 3.0,
+      "predicted": 5.87,
+      "residual": -2.87
+    },
+    {
+      "date": "2025-10-03",
+      "observed": 5.75,
+      "predicted": 4.99,
+      "residual": 0.76
+    },
+    {
+      "date": "2025-10-04",
+      "observed": 6.2,
+      "predicted": 7.56,
+      "residual": -1.36
+    },
+    {
+      "date": "2025-10-05",
+      "observed": 7.3,
+      "predicted": 7.55,
+      "residual": -0.25
+    },
+    {
+      "date": "2025-10-06",
+      "observed": 9.85,
+      "predicted": 8.92,
+      "residual": 0.93
+    },
+    {
+      "date": "2025-10-07",
+      "observed": 9.3,
+      "predicted": 10.82,
+      "residual": -1.52
+    },
+    {
+      "date": "2025-10-08",
+      "observed": 7.2,
+      "predicted": 10.75,
+      "residual": -3.55
+    },
+    {
+      "date": "2025-10-09",
+      "observed": 8.9,
+      "predicted": 9.09,
+      "residual": -0.19
+    },
+    {
+      "date": "2025-10-10",
+      "observed": 7.35,
+      "predicted": 10.01,
+      "residual": -2.66
+    },
+    {
+      "date": "2025-10-11",
+      "observed": 6.65,
+      "predicted": 8.72,
+      "residual": -2.07
+    },
+    {
+      "date": "2025-10-12",
+      "observed": 7.55,
+      "predicted": 8.33,
+      "residual": -0.78
+    },
+    {
+      "date": "2025-10-13",
+      "observed": 3.05,
+      "predicted": 6.69,
+      "residual": -3.64
+    },
+    {
+      "date": "2025-10-14",
+      "observed": 3.5,
+      "predicted": 4.24,
+      "residual": -0.74
+    },
+    {
+      "date": "2025-10-15",
+      "observed": 6.75,
+      "predicted": 6.53,
+      "residual": 0.22
+    },
+    {
+      "date": "2025-10-16",
+      "observed": 8.0,
+      "predicted": 8.86,
+      "residual": -0.86
+    },
+    {
+      "date": "2025-10-17",
+      "observed": 7.5,
+      "predicted": 9.48,
+      "residual": -1.98
+    },
+    {
+      "date": "2025-10-18",
+      "observed": 7.15,
+      "predicted": 9.37,
+      "residual": -2.22
+    },
+    {
+      "date": "2025-10-19",
+      "observed": 9.4,
+      "predicted": 8.98,
+      "residual": 0.42
+    },
+    {
+      "date": "2025-10-20",
+      "observed": 12.55,
+      "predicted": 10.74,
+      "residual": 1.81
+    },
+    {
+      "date": "2025-10-21",
+      "observed": 6.45,
+      "predicted": 12.73,
+      "residual": -6.28
+    },
+    {
+      "date": "2025-10-22",
+      "observed": 6.85,
+      "predicted": 8.19,
+      "residual": -1.34
+    },
+    {
+      "date": "2025-10-23",
+      "observed": 10.75,
+      "predicted": 8.85,
+      "residual": 1.9
+    },
+    {
+      "date": "2025-10-24",
+      "observed": 11.95,
+      "predicted": 11.12,
+      "residual": 0.83
+    },
+    {
+      "date": "2025-10-25",
+      "observed": 10.5,
+      "predicted": 12.4,
+      "residual": -1.9
+    },
+    {
+      "date": "2025-10-26",
+      "observed": 12.3,
+      "predicted": 10.95,
+      "residual": 1.35
+    },
+    {
+      "date": "2025-10-27",
+      "observed": 17.15,
+      "predicted": 12.41,
+      "residual": 4.74
+    },
+    {
+      "date": "2025-10-28",
+      "observed": 9.1,
+      "predicted": 15.79,
+      "residual": -6.69
+    },
+    {
+      "date": "2025-10-29",
+      "observed": 7.8,
+      "predicted": 10.77,
+      "residual": -2.97
+    },
+    {
+      "date": "2025-10-30",
+      "observed": 10.2,
+      "predicted": 9.34,
+      "residual": 0.86
+    },
+    {
+      "date": "2025-10-31",
+      "observed": 19.15,
+      "predicted": 10.59,
+      "residual": 8.56
+    },
+    {
+      "date": "2025-11-01",
+      "observed": 23.55,
+      "predicted": 17.46,
+      "residual": 6.09
+    },
+    {
+      "date": "2025-11-02",
+      "observed": 14.3,
+      "predicted": 19.91,
+      "residual": -5.61
+    },
+    {
+      "date": "2025-11-03",
+      "observed": 12.85,
+      "predicted": 13.69,
+      "residual": -0.84
+    },
+    {
+      "date": "2025-11-04",
+      "observed": 6.95,
+      "predicted": 12.94,
+      "residual": -5.99
+    },
+    {
+      "date": "2025-11-05",
+      "observed": 6.35,
+      "predicted": 8.61,
+      "residual": -2.26
+    },
+    {
+      "date": "2025-11-06",
+      "observed": 13.0,
+      "predicted": 8.28,
+      "residual": 4.72
+    },
+    {
+      "date": "2025-11-07",
+      "observed": 14.3,
+      "predicted": 12.81,
+      "residual": 1.49
+    },
+    {
+      "date": "2025-11-08",
+      "observed": 18.85,
+      "predicted": 13.3,
+      "residual": 5.55
+    },
+    {
+      "date": "2025-11-09",
+      "observed": 11.45,
+      "predicted": 17.02,
+      "residual": -5.57
+    },
+    {
+      "date": "2025-11-10",
+      "observed": 11.4,
+      "predicted": 11.9,
+      "residual": -0.5
+    },
+    {
+      "date": "2025-11-11",
+      "observed": 15.25,
+      "predicted": 11.79,
+      "residual": 3.46
+    },
+    {
+      "date": "2025-11-12",
+      "observed": 10.95,
+      "predicted": 15.04,
+      "residual": -4.09
+    },
+    {
+      "date": "2025-11-13",
+      "observed": 6.15,
+      "predicted": 11.18,
+      "residual": -5.03
+    },
+    {
+      "date": "2025-11-14",
+      "observed": 3.8,
+      "predicted": 7.85,
+      "residual": -4.05
+    },
+    {
+      "date": "2025-11-15",
+      "observed": 2.7,
+      "predicted": 4.84,
+      "residual": -2.14
+    },
+    {
+      "date": "2025-11-16",
+      "observed": 2.55,
+      "predicted": 4.81,
+      "residual": -2.26
+    },
+    {
+      "date": "2025-11-17",
+      "observed": 5.0,
+      "predicted": 4.61,
+      "residual": 0.39
+    },
+    {
+      "date": "2025-11-18",
+      "observed": 6.65,
+      "predicted": 7.24,
+      "residual": -0.59
+    },
+    {
+      "date": "2025-11-19",
+      "observed": 6.05,
+      "predicted": 8.64,
+      "residual": -2.59
+    },
+    {
+      "date": "2025-11-20",
+      "observed": 3.1,
+      "predicted": 6.6,
+      "residual": -3.5
+    },
+    {
+      "date": "2025-11-21",
+      "observed": 6.4,
+      "predicted": 4.89,
+      "residual": 1.51
+    },
+    {
+      "date": "2025-11-22",
+      "observed": 8.45,
+      "predicted": 7.61,
+      "residual": 0.84
+    },
+    {
+      "date": "2025-11-23",
+      "observed": 9.75,
+      "predicted": 9.78,
+      "residual": -0.03
+    },
+    {
+      "date": "2025-11-24",
+      "observed": 12.7,
+      "predicted": 10.9,
+      "residual": 1.8
+    },
+    {
+      "date": "2025-11-25",
+      "observed": 11.15,
+      "predicted": 13.38,
+      "residual": -2.23
+    },
+    {
+      "date": "2025-11-26",
+      "observed": 9.35,
+      "predicted": 11.86,
+      "residual": -2.51
+    },
+    {
+      "date": "2025-11-27",
+      "observed": 10.65,
+      "predicted": 10.86,
+      "residual": -0.21
+    },
+    {
+      "date": "2025-11-28",
+      "observed": 13.35,
+      "predicted": 11.52,
+      "residual": 1.83
+    },
+    {
+      "date": "2025-11-29",
+      "observed": 19.0,
+      "predicted": 13.28,
+      "residual": 5.72
+    },
+    {
+      "date": "2025-11-30",
+      "observed": 18.55,
+      "predicted": 16.97,
+      "residual": 1.58
+    },
+    {
+      "date": "2025-12-01",
+      "observed": 14.7,
+      "predicted": 16.9,
+      "residual": -2.2
+    },
+    {
+      "date": "2025-12-02",
+      "observed": 10.1,
+      "predicted": 14.51,
+      "residual": -4.41
+    },
+    {
+      "date": "2025-12-03",
+      "observed": 4.2,
+      "predicted": 10.75,
+      "residual": -6.55
+    },
+    {
+      "date": "2025-12-04",
+      "observed": 6.55,
+      "predicted": 7.2,
+      "residual": -0.65
+    },
+    {
+      "date": "2025-12-05",
+      "observed": 8.7,
+      "predicted": 8.65,
+      "residual": 0.05
+    },
+    {
+      "date": "2025-12-06",
+      "observed": 16.25,
+      "predicted": 10.34,
+      "residual": 5.91
+    },
+    {
+      "date": "2025-12-07",
+      "observed": 16.3,
+      "predicted": 15.48,
+      "residual": 0.82
+    },
+    {
+      "date": "2025-12-08",
+      "observed": 8.2,
+      "predicted": 15.6,
+      "residual": -7.4
+    },
+    {
+      "date": "2025-12-09",
+      "observed": 10.65,
+      "predicted": 10.39,
+      "residual": 0.26
+    },
+    {
+      "date": "2025-12-10",
+      "observed": 14.0,
+      "predicted": 11.83,
+      "residual": 2.17
+    },
+    {
+      "date": "2025-12-11",
+      "observed": 17.75,
+      "predicted": 14.11,
+      "residual": 3.64
+    },
+    {
+      "date": "2025-12-12",
+      "observed": 28.75,
+      "predicted": 16.51,
+      "residual": 12.24
+    },
+    {
+      "date": "2025-12-13",
+      "observed": 27.3,
+      "predicted": 24.23,
+      "residual": 3.07
+    },
+    {
+      "date": "2025-12-14",
+      "observed": 21.6,
+      "predicted": 23.17,
+      "residual": -1.57
+    },
+    {
+      "date": "2025-12-15",
+      "observed": 20.65,
+      "predicted": 19.05,
+      "residual": 1.6
+    }
+  ]
+}

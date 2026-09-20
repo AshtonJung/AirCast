@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-08-10T07:55:15.150007",
+  "source_dataset": "jei-pm25-episode-recovery/data/processed/cleaned_daily_data.csv",
+  "dataset": {
+    "source_name": "EPA AirData (Anaheim + Mission Viejo, Orange County, CA) PM2.5 + NOAA John Wayne Airport (USW00093184) wind/precipitation, cleaned and merged for the JEI PM2.5 Episode-Recovery study",
+    "geography": "Orange County, California, USA",
+    "date_range_start": "2014-01-01",
+    "date_range_end": "2025-12-15",
+    "n_consecutive_day_pairs": 4328,
+    "n_train_pairs": 3276,
+    "n_test_pairs": 1052,
+    "variables": [
+      "PM2.5 (ug/m3, daily mean)",
+      "Wind speed (m/s, daily mean)",
+      "Precipitation (mm/day)",
+      "Season",
+      "Year"
+    ]
+  },
+  "model": {
+    "model_type": "Ordinary least squares regression: next-day PM2.5 ~ today's PM2.5 (persistence) + wind + precipitation",
+    "target": "Next-day daily mean PM2.5 (ug/m3)",
+    "inputs": [
+      "pm25",
+      "wind",
+      "precip"
+    ],
+    "coefficients": {
+      "intercept": 5.270020524024442,
+      "pm25_today": 0.681121077933424,
+      "wind": -0.7759710144128464,
+      "precip": -0.020635518514205146
+    },
+    "train_date_range": [
+      "2014-01-01",
+      "2022-12-31"
+    ],
+    "test_date_range": [
+      "2023-01-01",
+      "2025-12-15"
+    ]
+  },
+  "evaluation": {
+    "test": {
+      "model_mae": 2.4644175139754454,
+      "model_rmse": 3.891406861672576,
+      "baseline_persistence_mae": 2.6498257287705957,
+      "baseline_persistence_rmse": 4.218119417658865,
+      "n": 1052
+    },
+    "train": {
+      "model_mae": 2.894761892254129,
+      "model_rmse": 4.439185677255837,
+      "n": 3276
+    },
+    "empirical_residual_interval_80pct": {
+      "lower": -4.211871142525063,
+      "upper": 2.974441728674517,
+      "description": "10th-90th percentile of (observed - predicted) next-day PM2.5 on the held-out 2023+ test set."
+    }
+  }
+}

@@ -1,4 +1,4 @@
-# AirCast — CAC Submission Package (Milestone 12)
+# AirCast — CAC Submission Package (Milestone 12 + Clean Air Defender)
 
 ## Final punch list (as reviewed this milestone)
 
@@ -13,7 +13,16 @@
 
 No large new features were added, per the guide's Milestone 12 scope rule — only the two items above (a test file and applying an already-built, already-tested interaction modifier to static badge tiles).
 
-**Final build/test status:** `BUILD SUCCEEDED`, `Executed 11 tests, with 0 failures (0 unexpected)`.
+**Milestone 12 build/test status:** `BUILD SUCCEEDED`, `Executed 11 tests, with 0 failures (0 unexpected)`.
+
+**Current build/test status (with Clean Air Defender added):** `BUILD SUCCEEDED`,
+`Executed 42 tests, with 0 failures (0 unexpected)` — the original 11 plus 31 new tests:
+`CleanAirDefenderGameStateTests` (15 — scoring, combo, haze, the intro callout, and the
+incorrect-hit callout naming the *actual* floored deduction rather than a fixed "-25"),
+`GameScenarioMapperTests` (11 — forecast-to-difficulty mapping, clamping, determinism,
+missing-data fallbacks, and pass-through of the real forecast/current PM2.5 and driver
+contribution percentages), and `GameProgressServiceTests` (5 — local result persistence
+round-trip, cap, malformed-data handling).
 
 ---
 
@@ -28,6 +37,7 @@ No large new features were added, per the guide's Milestone 12 scope rule — on
 - **Profile** — prediction accuracy trend over time, best score/error, a small transparent achievement set computed from real submitted-prediction history (no arbitrary/inflated badges).
 - **Settings** — appearance (light/dark/system), demo scenario picker (5 curated, internally-consistent scenarios), Reset Demo, data sources & acknowledgments, model limitations, privacy statement, about.
 - **Runs fully offline** on bundled, deterministic demo data — no accounts, no network dependency, no backend.
+- **Clean Air Defender** — an optional 30–45s SpriteKit mini-game reachable from a "Play Clean Air Defender" button on the Challenge tab, built as a *playable version of AirCast's own forecast mechanism* rather than a decorative arcade reskin. The round plays out "today's PM2.5 **persistence** minus **removal** from wind and rain" — AirCast's actual accumulation/removal framework — explicitly, in that vocabulary: the entry screen states the mechanism up front, a round-opening callout names today's real persistence value before a single target spawns, the in-game HUD shows a live "Persistence N%" readout (not an abstract game score), and the result screen's recap states this specific round's real numbers ("you cleared N clusters (persistence ↓) and protected M boosts (removal ↑)"). The player fires a "Clean Air Blaster" — a visible on-screen nozzle that shoots a fast water streak at each tapped PM2.5 cluster (travel time capped under 0.13s so it stays snappy; skipped entirely under Reduce Motion) — and drags through wind/rain boosts to protect them, with an educational callout on both correct and incorrect interactions that names the *real* driver contribution percentage from that day's forecast when available. The whole round plays out against the same 3D city skyline shown on Home's hero (not just ambient sky), visibly clearing as persistence drops, with an added ambient haze layer and a one-time "clarity flash" the first time the air genuinely clears. Round difficulty and every displayed number (forecast PM2.5, current PM2.5, wind/precipitation contribution %) are derived from the same forecast data shown elsewhere in the app via a one-way `ForecastScenario → GameScenario` mapper that never writes back to the statistical model — missing data always omits the claim rather than fabricating one. All sound effects are procedurally synthesized at runtime (no bundled audio assets, avoiding licensing questions), with an on/off toggle. Results persist locally and unlock 3 one-time Profile badges (Particle Defender, Clean Sweep, Forecast Scientist) — the same achievement list `ProfileViewModel` already renders, not a second progress system. Respects Reduce Motion, has VoiceOver labels throughout its SwiftUI chrome, and never blocks on sound or haptics (every cue has a visual equivalent).
 
 ---
 
@@ -64,3 +74,19 @@ The forecast model is an ordinary least squares regression predicting next-day m
 - `AirCast/AirCast/Features/ModelLab/Components/DiagnosticChart.swift` — the 1,052-real-point Observed-vs-Predicted / residuals chart.
 - `AirCast/AirCastTests/BundledResearchDataTests.swift` — the automated test that verifies the bundled residuals' statistics actually match the reported MAE, so the "real data" claim is machine-checked, not just asserted.
 - `AirCast/docs/demo_script.md` and `AirCast/docs/submission.md` — this package.
+- `AirCast/AirCast/Features/CleanAirDefender/SpriteKit/CleanAirDefenderScene.swift` — the SpriteKit
+  round: spawning, tap/drag hit-testing, the blaster/water-shot firing sequence, wind/rain effects,
+  pooled-node cleanup (no unbounded emitters).
+- `AirCast/AirCast/Features/CleanAirDefender/SpriteKit/BlasterNode.swift` and `WaterShotNode.swift`
+  — the "Clean Air Blaster" tool and its fast (<0.13s) water-shot projectile, added specifically so
+  clearing a cluster reads as aiming and firing a tool rather than an abstract tap-and-vanish.
+- `AirCast/AirCast/Features/CleanAirDefender/Services/GameScenarioMapper.swift` — the isolated,
+  documented, one-way forecast→game-difficulty conversion (work order's "not a new scientific
+  forecast" rule), fully unit-tested (`GameScenarioMapperTests`, 11 tests: clamping, determinism,
+  missing-data fallbacks, and pass-through of real forecast/contribution numbers).
+- `AirCast/AirCast/Features/CleanAirDefender/Services/GameScienceRecap.swift` — builds the result
+  screen's "persistence vs. removal" summary from this specific round's real `GameResult` numbers,
+  never a fixed/generic sentence.
+- `AirCast/AirCast/Features/CleanAirDefender/Services/GameSoundPlayer.swift` — every sound effect
+  is a synthesized tone (sine waves + an attack/decay envelope) rendered at runtime, not a bundled
+  audio asset — sidesteps licensing questions for a CAC submission entirely.

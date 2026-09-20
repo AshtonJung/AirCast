@@ -94,6 +94,23 @@ final class ChallengeViewModel {
         isSubmitting = false
     }
 
+    /// Exposes just enough already-fetchable data for Clean Air Defender's
+    /// `ForecastScenario`/`GameScenarioMapper` to size a round — without
+    /// handing the whole `AirQualityRepository` out of this view model's
+    /// encapsulation, and without this file needing to know anything about
+    /// the game feature itself (it returns plain AirCast domain types).
+    ///
+    /// `userPredictionPM25` is `todayChallenge?.userPredictionPM25` — the
+    /// exact same value already shown as "You predicted X µg/m³" in
+    /// `todaySection` — so the game's entry screen can show the same number
+    /// instead of a generic instruction-only screen, making the connection
+    /// back to the Prediction Challenge explicit rather than implied.
+    func currentForecastSnapshot() async -> (currentPM25: Double, forecast: PM25Forecast, userPredictionPM25: Double?)? {
+        guard let latestPM25 = recentObservations.first?.pm25,
+              let forecast = try? await repository.forecast() else { return nil }
+        return (latestPM25, forecast, todayChallenge?.userPredictionPM25)
+    }
+
     private static func submitMessage(for error: Error) -> String {
         guard let repoError = error as? AirQualityRepositoryError else {
             return "Something went wrong. Please try again."

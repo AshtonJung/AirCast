@@ -7,6 +7,7 @@ import SwiftUI
 struct ChallengeView: View {
     @State var viewModel: ChallengeViewModel
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
+    @State private var showingCleanAirDefender = false
 
     private var backgroundCategory: AQICategory {
         viewModel.recentObservations.first?.category ?? .moderate
@@ -30,6 +31,12 @@ struct ChallengeView: View {
         }
         .task { await viewModel.load() }
         .sensoryFeedback(.success, trigger: viewModel.submissionTicks)
+        .fullScreenCover(isPresented: $showingCleanAirDefender) {
+            CleanAirDefenderContainerView(
+                onFinish: { showingCleanAirDefender = false },
+                loadForecastSnapshot: { await viewModel.currentForecastSnapshot() }
+            )
+        }
     }
 
     @ViewBuilder
@@ -102,9 +109,22 @@ struct ChallengeView: View {
                         .font(ACFont.caption())
                         .foregroundStyle(ACColor.textSecondary)
                     if !today.isResolved {
-                        Text("Predictions lock at 8:00 PM local time and can't be edited after that.")
+                        Text("Predictions lock at midnight local time and can't be edited after that.")
                             .font(ACFont.micro())
                             .foregroundStyle(ACColor.textTertiary)
+
+                        VStack(alignment: .leading, spacing: ACSpacing.xxs) {
+                            Button {
+                                showingCleanAirDefender = true
+                            } label: {
+                                Label("Play Clean Air Defender", systemImage: "wind")
+                            }
+                            .buttonStyle(.acSecondary)
+                            Text("Learn what's pushing tomorrow's air up or down.")
+                                .font(ACFont.micro())
+                                .foregroundStyle(ACColor.textTertiary)
+                        }
+                        .padding(.top, ACSpacing.xs)
                     }
                 }
                 .frame(maxWidth: .infinity, alignment: .leading)

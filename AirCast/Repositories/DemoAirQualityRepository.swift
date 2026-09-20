@@ -69,7 +69,13 @@ actor DemoAirQualityRepository: AirQualityRepository {
         if storedChallenges.contains(where: { calendar.isDate($0.challengeDate, inSameDayAs: date) }) {
             throw AirQualityRepositoryError.predictionAlreadySubmitted
         }
-        let cutoff = calendar.date(bySettingHour: 20, minute: 0, second: 0, of: date) ?? date
+        // End-of-day, not 8:00 PM: an evening CAC demo/judging session must
+        // never find prediction submission already locked (work order-style
+        // "reliable demo" priority — this app predates the Clean Air
+        // Defender work order, but the same rule applies). A same-day
+        // cutoff is still a real, honest constraint; it's just no longer an
+        // early-evening one that a normal demo time-of-day would trip.
+        let cutoff = calendar.date(bySettingHour: 23, minute: 59, second: 59, of: date) ?? date
         guard Date() < cutoff else {
             throw AirQualityRepositoryError.predictionCutoffPassed
         }
@@ -302,7 +308,7 @@ actor DemoAirQualityRepository: AirQualityRepository {
         let formatter = ISO8601DateFormatter()
         formatter.formatOptions = [.withFullDate]
         guard let challengeDate = formatter.date(from: example.date) else { return [] }
-        let cutoff = calendar.date(bySettingHour: 20, minute: 0, second: 0, of: challengeDate) ?? challengeDate
+        let cutoff = calendar.date(bySettingHour: 23, minute: 59, second: 59, of: challengeDate) ?? challengeDate
         return [
             PredictionChallenge(
                 challengeDate: challengeDate,

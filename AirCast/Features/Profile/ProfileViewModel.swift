@@ -19,12 +19,18 @@ struct Achievement: Identifiable {
 @MainActor
 final class ProfileViewModel {
     private let repository: AirQualityRepository
+    private let progressService: GameProgressStoring
 
     private(set) var phase: LoadPhase = .loading
     private(set) var challenges: [PredictionChallenge] = []
+    private(set) var gameResults: [GameResult] = []
 
-    init(repository: AirQualityRepository) {
+    /// Default `GameProgressService()` keeps `ProfileViewModel(repository:)`
+    /// call sites (e.g. `AppRootView`) working unchanged; tests can inject
+    /// an isolated store.
+    init(repository: AirQualityRepository, progressService: GameProgressStoring = GameProgressService()) {
         self.repository = repository
+        self.progressService = progressService
     }
 
     private var resolved: [PredictionChallenge] {
@@ -89,12 +95,37 @@ final class ProfileViewModel {
                 symbolName: "5.circle",
                 isUnlocked: resolvedCount >= 5
             ),
+            // Clean Air Defender badges (work order §13). One-time boolean
+            // unlocks, same as the predictions above — repeat play can't
+            // farm extra credit once a badge is already unlocked.
+            Achievement(
+                id: "cleanAirFirstRound",
+                title: "Particle Defender",
+                detail: "Complete your first Clean Air Defender round.",
+                symbolName: "wind",
+                isUnlocked: !gameResults.isEmpty
+            ),
+            Achievement(
+                id: "cleanAirCleanSweep",
+                title: "Clean Sweep",
+                detail: "Finish a Clean Air Defender round with zero incorrect hits.",
+                symbolName: "sparkles",
+                isUnlocked: gameResults.contains { $0.particlesCleared > 0 && $0.incorrectHits == 0 }
+            ),
+            Achievement(
+                id: "forecastScientist",
+                title: "Forecast Scientist",
+                detail: "Resolve a prediction and complete a Clean Air Defender round.",
+                symbolName: "graduationcap",
+                isUnlocked: resolvedCount >= 1 && !gameResults.isEmpty
+            ),
         ]
     }
 
     func load() async {
         let hadData = !challenges.isEmpty
         if !hadData { phase = .loading }
+        gameResults = progressService.loadResults()
         do {
             challenges = try await repository.predictionChallenges()
             phase = .loaded

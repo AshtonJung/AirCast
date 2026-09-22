@@ -69,7 +69,7 @@ and the actual code disagree on these points, the code is newer/correct):
   existing bundled data, not new claims — see `GameEducationFactsTests`.
 
 See `docs/submission.md` for the final feature list, technical/statistics
-explanations, honest limitations, and files judges should notice — both it
+explanations, stated limitations, and files judges should notice — both it
 and `docs/demo_script.md` were updated in the same pass as the earlier
 bullet points (blaster/water-shot mechanic, persistence/removal framing)
 but **predate** the `GameEducationFacts` addition directly above — reconcile
@@ -121,9 +121,9 @@ Trust only actual `xcodebuild`/`xcodebuild test` output.
 
 ## Known non-issues / things not to "fix" again
 
-- The repo **is** a git repository now (initialized 2026-08-10, `main` branch, private — pushed to
-  origin). The project.yml/xcodeproj is regenerated via `xcodegen generate`, so run that after any
-  file add/move before building, same as always.
+- The repo **is** a git repository now (initialized 2026-08-10, `main` branch, public — pushed to
+  origin at github.com/AshtonJung/AirCast). The project.yml/xcodeproj is regenerated via
+  `xcodegen generate`, so run that after any file add/move before building, same as always.
 - `AirCastApp.swift`'s repository line must stay `DemoAirQualityRepository()` (default scenario)
   and `TabRouter.swift`'s `selectedTab` must stay `.home` — both get temporarily overridden during
   scenario/tab verification screenshots and must always be reverted afterward.
